@@ -1,0 +1,1414 @@
+iyear,country_txt,terrorism_count,region,Tourism Count,Continent
+1995,Algeria,185,56,520.0,Africa
+1995,Angola,10,3,9.0,Africa
+1995,Argentina,16,7,2289000.0,South America
+1995,Armenia,1,8,12.0,Asia
+1995,Australia,5,11,3726000.0,Oceania
+1995,Austria,12,12,17173000.0,Europe
+1995,Bahrain,8,20,2311000.0,Asia
+1995,Belgium,1,15,5560000.0,Europe
+1995,Benin,1,16,138.0,Africa
+1995,Bolivia,2,26,284.0,South America
+1995,Brazil,23,27,1991000.0,South America
+1995,Bulgaria,2,19,3466000.0,Europe
+1995,Burundi,83,14,34.0,Africa
+1995,Cambodia,56,105,220.0,Asia
+1995,Canada,5,32,16932000.0,North America
+1995,Chile,17,35,1540000.0,South America
+1995,China,8,36,20034000.0,Asia
+1995,Colombia,123,41,1399000.0,South America
+1995,Croatia,1,85,1485000.0,Europe
+1995,Cyprus,3,49,2100000.0,Europe
+1995,Czech Republic,3,50,3381000.0,Europe
+1995,Ecuador,6,57,440.0,South America
+1995,Egypt,102,58,2871000.0,Africa
+1995,El Salvador,9,179,235.0,North America
+1995,Estonia,2,61,530.0,Europe
+1995,Ethiopia,5,62,103.0,Africa
+1995,Finland,1,63,1779000.0,Europe
+1995,France,71,65,60033000.0,Europe
+1995,French Polynesia,3,167,172.0,Oceania
+1995,Georgia,17,70,85.0,Asia
+1995,Germany,147,51,14847000.0,Europe
+1995,Greece,8,77,10130000.0,Europe
+1995,Guatemala,82,80,563.0,North America
+1995,Haiti,34,86,145.0,North America
+1995,Honduras,12,84,271.0,North America
+1995,India,179,91,2124000.0,Asia
+1995,Indonesia,24,88,4324000.0,Asia
+1995,Iran,8,94,568.0,Asia
+1995,Ireland,3,93,4818000.0,Europe
+1995,Israel,13,97,2215000.0,Asia
+1995,Italy,1,98,31052000.0,Europe
+1995,Jamaica,1,99,1147000.0,North America
+1995,Japan,20,101,3345000.0,Asia
+1995,Jordan,3,100,1075000.0,Asia
+1995,Kenya,4,103,918.0,Africa
+1995,Latvia,1,120,539.0,Europe
+1995,Lebanon,38,111,450.0,Asia
+1995,Lithuania,2,118,650.0,Europe
+1995,Madagascar,3,126,75.0,Africa
+1995,Mali,1,131,42.0,Africa
+1995,Malta,2,132,1116000.0,Europe
+1995,Mexico,29,128,20241000.0,North America
+1995,Morocco,1,123,2602000.0,Africa
+1995,Myanmar,12,133,194.0,Asia
+1995,Netherlands,7,147,6574000.0,Europe
+1995,Nicaragua,18,146,281.0,North America
+1995,Niger,2,144,35.0,Africa
+1995,Panama,6,155,345.0,North America
+1995,Paraguay,12,164,438.0,South America
+1995,Peru,44,156,479.0,South America
+1995,Philippines,63,157,1760000.0,Asia
+1995,Poland,4,160,19215000.0,Europe
+1995,Portugal,3,163,4572000.0,Europe
+1995,Romania,1,169,5445000.0,Europe
+1995,Russia,37,170,10290000.0,Europe
+1995,Senegal,8,175,280.0,Africa
+1995,Slovak Republic,3,187,903.0,Europe
+1995,South Africa,32,221,4488000.0,Africa
+1995,South Korea,4,108,3753000.0,Asia
+1995,Spain,44,60,32971000.0,Europe
+1995,Sri Lanka,126,116,403.0,Asia
+1995,Sudan,4,174,29.0,Africa
+1995,Sweden,1,189,2310000.0,Europe
+1995,Tanzania,1,206,285.0,Africa
+1995,Thailand,12,197,6952000.0,Asia
+1995,Togo,1,196,53.0,Africa
+1995,Trinidad and Tobago,4,202,260.0,North America
+1995,Tunisia,1,203,4120000.0,Africa
+1995,Turkey,133,204,7083000.0,Asia
+1995,Uganda,7,207,160.0,Africa
+1995,Ukraine,2,208,3716000.0,Europe
+1995,United Kingdom,22,69,21719000.0,Europe
+1995,United States,60,210,43318000.0,North America
+1995,Uruguay,1,209,2022000.0,South America
+1995,Venezuela,11,213,700.0,South America
+1995,Vietnam,1,216,1351000.0,Asia
+1995,Zambia,1,222,163.0,Africa
+1995,Zimbabwe,2,223,1416000.0,Africa
+1996,Albania,6,4,287.0,Europe
+1996,Algeria,129,56,605.0,Africa
+1996,Angola,4,3,21.0,Africa
+1996,Argentina,19,7,2614000.0,South America
+1996,Armenia,1,8,13.0,Asia
+1996,Australia,5,11,4165000.0,Oceania
+1996,Austria,4,12,17090000.0,Europe
+1996,Bahrain,16,20,1988000.0,Asia
+1996,Benin,2,16,143.0,Africa
+1996,Bolivia,1,26,313.0,South America
+1996,Brazil,18,27,2666000.0,South America
+1996,Bulgaria,12,19,2795000.0,Europe
+1996,Burundi,35,14,27.0,Africa
+1996,Cambodia,33,105,260.0,Asia
+1996,Canada,1,32,17286000.0,North America
+1996,Chile,8,35,1450000.0,South America
+1996,China,62,36,22765000.0,Asia
+1996,Colombia,409,41,631.0,South America
+1996,Costa Rica,1,44,781.0,North America
+1996,Croatia,3,85,2914000.0,Europe
+1996,Cuba,1,46,999.0,North America
+1996,Cyprus,10,49,1950000.0,Europe
+1996,Czech Republic,3,50,4558000.0,Europe
+1996,Dominican Republic,3,55,1926000.0,North America
+1996,Ecuador,5,57,494.0,South America
+1996,Egypt,51,58,3528000.0,Africa
+1996,El Salvador,7,179,283.0,North America
+1996,Estonia,1,61,665.0,Europe
+1996,Ethiopia,7,62,109.0,Africa
+1996,France,270,65,62406000.0,Europe
+1996,Georgia,3,70,117.0,Asia
+1996,Germany,52,51,15205000.0,Europe
+1996,Greece,20,77,9233000.0,Europe
+1996,Guatemala,26,80,520.0,North America
+1996,Haiti,27,86,150.0,North America
+1996,Honduras,19,84,263.0,North America
+1996,Hungary,13,87,2979000.0,Europe
+1996,India,213,91,2288000.0,Asia
+1996,Indonesia,65,88,5034000.0,Asia
+1996,Iran,3,94,693.0,Asia
+1996,Ireland,1,93,5289000.0,Europe
+1996,Israel,19,97,2100000.0,Asia
+1996,Italy,8,98,32943000.0,Europe
+1996,Jamaica,1,99,1162000.0,North America
+1996,Japan,8,101,3837000.0,Asia
+1996,Jordan,2,100,1106000.0,Asia
+1996,Kenya,3,103,947.0,Africa
+1996,Lebanon,39,111,424.0,Asia
+1996,Lithuania,3,118,832.0,Europe
+1996,Madagascar,2,126,83.0,Africa
+1996,Mexico,75,128,21395000.0,North America
+1996,Morocco,2,123,2693000.0,Africa
+1996,Myanmar,13,133,490.0,Asia
+1996,Nepal,5,149,394.0,Asia
+1996,Netherlands,6,147,6580000.0,Europe
+1996,Nicaragua,26,146,303.0,North America
+1996,Niger,1,144,68.0,Africa
+1996,Norway,1,148,2746000.0,Europe
+1996,Panama,2,155,362.0,North America
+1996,Peru,42,156,584.0,South America
+1996,Philippines,61,157,2049000.0,Asia
+1996,Poland,6,160,19410000.0,Europe
+1996,Qatar,1,168,327.0,Asia
+1996,Russia,66,170,16208000.0,Europe
+1996,Slovak Republic,5,187,951.0,Europe
+1996,Slovenia,3,188,832.0,Europe
+1996,South Africa,47,221,4915000.0,Africa
+1996,South Korea,1,108,3684000.0,Asia
+1996,Spain,63,60,34027000.0,Europe
+1996,Sri Lanka,176,116,302.0,Asia
+1996,Sudan,10,174,38.0,Africa
+1996,Sweden,1,189,2376000.0,Europe
+1996,Thailand,19,197,7244000.0,Asia
+1996,Togo,1,196,58.0,Africa
+1996,Trinidad and Tobago,3,202,266.0,North America
+1996,Turkey,54,204,7966000.0,Asia
+1996,Uganda,29,207,174.0,Africa
+1996,Ukraine,3,208,3854000.0,Europe
+1996,United Kingdom,36,69,22936000.0,Europe
+1996,United States,35,210,46489000.0,North America
+1996,Uruguay,1,209,2152000.0,South America
+1996,Vanuatu,2,217,46.0,Oceania
+1996,Venezuela,12,213,759.0,South America
+1996,Vietnam,1,216,1607000.0,Asia
+1996,Zambia,4,222,264.0,Africa
+1997,Albania,41,4,119.0,Europe
+1997,Algeria,344,56,635.0,Africa
+1997,Angola,7,3,45.0,Africa
+1997,Argentina,11,7,2764000.0,South America
+1997,Australia,4,11,4318000.0,Oceania
+1997,Austria,1,12,16647000.0,Europe
+1997,Bahrain,11,20,2600000.0,Asia
+1997,Belarus,2,23,2535.0,Europe
+1997,Belgium,2,15,6037000.0,Europe
+1997,Bolivia,4,26,355.0,South America
+1997,Brazil,39,27,2850000.0,South America
+1997,Bulgaria,3,19,2980000.0,Europe
+1997,Burundi,79,14,11.0,Africa
+1997,Cambodia,18,105,219.0,Asia
+1997,Canada,2,32,17669000.0,North America
+1997,Chile,6,35,1644000.0,South America
+1997,China,18,36,23770000.0,Asia
+1997,Colombia,598,41,639.0,South America
+1997,Comoros,3,42,26.0,Africa
+1997,Costa Rica,1,44,811.0,North America
+1997,Croatia,8,85,4178000.0,Europe
+1997,Cuba,14,46,1153000.0,North America
+1997,Czech Republic,4,50,4976000.0,Europe
+1997,Dominica,1,53,65.0,North America
+1997,Dominican Republic,12,55,2211000.0,North America
+1997,Ecuador,4,57,529.0,South America
+1997,Egypt,22,58,3656000.0,Africa
+1997,El Salvador,2,179,387.0,North America
+1997,Ethiopia,6,62,139.0,Africa
+1997,France,130,65,66591000.0,Europe
+1997,Georgia,6,70,313.0,Asia
+1997,Germany,12,51,15837000.0,Europe
+1997,Greece,21,77,10070000.0,Europe
+1997,Guatemala,26,80,576.0,North America
+1997,Guyana,1,82,76.0,South America
+1997,Haiti,16,86,149.0,North America
+1997,Honduras,22,84,307.0,North America
+1997,Hungary,17,87,2887000.0,Europe
+1997,India,193,91,2374000.0,Asia
+1997,Indonesia,27,88,5185000.0,Asia
+1997,Ireland,4,93,5587000.0,Europe
+1997,Israel,13,97,2010000.0,Asia
+1997,Italy,8,98,34692000.0,Europe
+1997,Jamaica,8,99,1192000.0,North America
+1997,Japan,5,101,4218000.0,Asia
+1997,Jordan,3,100,1132000.0,Asia
+1997,Kenya,17,103,928.0,Africa
+1997,Latvia,2,120,635.0,Europe
+1997,Lebanon,46,111,558.0,Asia
+1997,Lithuania,1,118,1012000.0,Europe
+1997,Madagascar,1,126,101.0,Africa
+1997,Mali,3,131,75.0,Africa
+1997,Malta,1,132,1111000.0,Europe
+1997,Mexico,95,128,19351000.0,North America
+1997,Myanmar,35,133,491.0,Asia
+1997,Nepal,9,149,422.0,Asia
+1997,Netherlands,1,147,7841000.0,Europe
+1997,Nicaragua,7,146,358.0,North America
+1997,Niger,3,144,68.0,Africa
+1997,Panama,6,155,421.0,North America
+1997,Paraguay,6,164,395.0,South America
+1997,Peru,58,156,649.0,South America
+1997,Philippines,57,157,2223000.0,Asia
+1997,Poland,3,160,19520000.0,Europe
+1997,Russia,77,170,17463000.0,Europe
+1997,Senegal,26,175,314.0,Africa
+1997,Slovak Republic,4,187,814.0,Europe
+1997,Slovenia,1,188,974.0,Europe
+1997,South Africa,17,221,4976000.0,Africa
+1997,Spain,86,60,39553000.0,Europe
+1997,Sri Lanka,64,116,366.0,Asia
+1997,Sudan,3,174,30.0,Africa
+1997,Suriname,2,186,61.0,South America
+1997,Sweden,4,189,2388000.0,Europe
+1997,Tanzania,1,206,347.0,Africa
+1997,Thailand,20,197,7294000.0,Asia
+1997,Turkey,44,204,9040000.0,Asia
+1997,Uganda,24,207,175.0,Africa
+1997,Ukraine,2,208,7558000.0,Europe
+1997,United Kingdom,78,69,23215000.0,Europe
+1997,United States,40,210,47767000.0,North America
+1997,Uruguay,2,209,2316000.0,South America
+1997,Venezuela,41,213,814.0,South America
+1997,Vietnam,2,216,1716000.0,Asia
+1998,Albania,7,4,184.0,Europe
+1998,Algeria,151,56,678.0,Africa
+1998,Angola,20,3,52.0,Africa
+1998,Armenia,2,8,32.0,Asia
+1998,Australia,6,11,4167000.0,Oceania
+1998,Austria,1,12,17352000.0,Europe
+1998,Belgium,3,15,6179000.0,Europe
+1998,Brazil,2,27,4818000.0,South America
+1998,Bulgaria,2,19,2667000.0,Europe
+1998,Burundi,13,14,15.0,Africa
+1998,Cambodia,7,105,287.0,Asia
+1998,Canada,4,32,18870000.0,North America
+1998,Chile,1,35,1759000.0,South America
+1998,China,2,36,25073000.0,Asia
+1998,Colombia,94,41,674.0,South America
+1998,Cyprus,1,49,2223000.0,Europe
+1998,Ecuador,3,57,511.0,South America
+1998,Egypt,3,58,3213000.0,Africa
+1998,France,12,65,70109000.0,Europe
+1998,Georgia,12,70,317.0,Asia
+1998,Germany,6,51,16511000.0,Europe
+1998,Greece,28,77,10916000.0,Europe
+1998,Guyana,2,82,66.0,South America
+1998,Haiti,1,86,147.0,North America
+1998,Hungary,2,87,2871000.0,Europe
+1998,India,61,91,2359000.0,Asia
+1998,Indonesia,3,88,4606000.0,Asia
+1998,Iran,5,94,1124000.0,Asia
+1998,Ireland,3,93,6064000.0,Europe
+1998,Israel,14,97,1942000.0,Asia
+1998,Italy,6,98,34933000.0,Europe
+1998,Japan,1,101,4106000.0,Asia
+1998,Jordan,1,100,1772000.0,Asia
+1998,Kenya,2,103,792.0,Africa
+1998,Latvia,4,120,576.0,Europe
+1998,Lebanon,23,111,631.0,Asia
+1998,Mexico,2,128,19392000.0,North America
+1998,Peru,5,156,726.0,South America
+1998,Philippines,18,157,2149000.0,Asia
+1998,Poland,2,160,18780000.0,Europe
+1998,Russia,26,170,16188000.0,Europe
+1998,Senegal,1,175,352.0,Africa
+1998,Slovak Republic,2,187,896.0,Europe
+1998,South Africa,6,221,5732000.0,Africa
+1998,Spain,17,60,41892000.0,Europe
+1998,Sri Lanka,35,116,381.0,Asia
+1998,Tanzania,1,206,450.0,Africa
+1998,Thailand,4,197,7843000.0,Asia
+1998,Turkey,23,204,8960000.0,Asia
+1998,Uganda,18,207,195.0,Africa
+1998,United Kingdom,63,69,23710000.0,Europe
+1998,United States,31,210,46377000.0,North America
+1998,Venezuela,1,213,685.0,South America
+1999,Albania,3,4,371.0,Europe
+1999,Algeria,106,56,749.0,Africa
+1999,Angola,34,3,45.0,Africa
+1999,Argentina,1,7,2898000.0,South America
+1999,Armenia,2,8,41.0,Asia
+1999,Belarus,1,23,749.0,Europe
+1999,Belgium,2,15,6369000.0,Europe
+1999,Brazil,1,27,5107000.0,South America
+1999,Bulgaria,1,19,2472000.0,Europe
+1999,Burundi,13,14,26.0,Africa
+1999,Cambodia,8,105,368.0,Asia
+1999,Canada,2,32,19411000.0,North America
+1999,Chile,3,35,1632000.0,South America
+1999,China,2,36,27047000.0,Asia
+1999,Colombia,116,41,546.0,South America
+1999,Cyprus,1,49,2434000.0,Europe
+1999,Ecuador,2,57,518.0,South America
+1999,Egypt,1,58,4490000.0,Africa
+1999,Estonia,1,61,950.0,Europe
+1999,Ethiopia,2,62,115.0,Africa
+1999,Fiji,3,64,410.0,Oceania
+1999,France,46,65,73147000.0,Europe
+1999,Georgia,7,70,384.0,Asia
+1999,Germany,13,51,17116000.0,Europe
+1999,Greece,35,77,12164000.0,Europe
+1999,Guatemala,1,80,823.0,North America
+1999,Haiti,5,86,143.0,North America
+1999,India,112,91,2482000.0,Asia
+1999,Indonesia,60,88,4728000.0,Asia
+1999,Iran,8,94,1321000.0,Asia
+1999,Ireland,3,93,6403000.0,Europe
+1999,Israel,8,97,2312000.0,Asia
+1999,Italy,7,98,36516000.0,Europe
+1999,Japan,2,101,4438000.0,Asia
+1999,Jordan,2,100,1790000.0,Asia
+1999,Latvia,1,120,544.0,Europe
+1999,Lebanon,42,111,673.0,Asia
+1999,Mexico,1,128,19043000.0,North America
+1999,Myanmar,4,133,435.0,Asia
+1999,Namibia,1,142,635.0,Africa
+1999,Nepal,8,149,492.0,Asia
+1999,Netherlands,1,147,9874000.0,Europe
+1999,Nicaragua,1,146,468.0,North America
+1999,Niger,2,144,39.0,Africa
+1999,Panama,1,155,457.0,North America
+1999,Paraguay,1,164,269.0,South America
+1999,Peru,5,156,694.0,South America
+1999,Philippines,31,157,2171000.0,Asia
+1999,Russia,54,170,18820000.0,Europe
+1999,Senegal,1,175,369.0,Africa
+1999,Slovak Republic,1,187,975.0,Europe
+1999,South Africa,17,221,5890000.0,Africa
+1999,Spain,47,60,45440000.0,Europe
+1999,Sri Lanka,46,116,436.0,Asia
+1999,Sudan,5,174,39.0,Africa
+1999,Sweden,2,189,2595000.0,Europe
+1999,Thailand,4,197,8651000.0,Asia
+1999,Turkey,109,204,6893000.0,Asia
+1999,Uganda,19,207,189.0,Africa
+1999,Ukraine,6,208,4232000.0,Europe
+1999,United Kingdom,76,69,23341000.0,Europe
+1999,United States,53,210,48509000.0,North America
+1999,Venezuela,5,213,587.0,South America
+1999,Zambia,7,222,404.0,Africa
+2000,Albania,2,4,317.0,Europe
+2000,Algeria,138,56,866.0,Africa
+2000,Angola,22,3,51.0,Africa
+2000,Armenia,2,8,45.0,Asia
+2000,Australia,1,11,4931000.0,Oceania
+2000,Belize,1,24,196.0,North America
+2000,Brazil,2,27,5313000.0,South America
+2000,Bulgaria,2,19,2785000.0,Europe
+2000,Burundi,17,14,29.0,Africa
+2000,Cambodia,4,105,466.0,Asia
+2000,Canada,5,32,19627000.0,North America
+2000,Chile,2,35,1742000.0,South America
+2000,China,4,36,31229000.0,Asia
+2000,Colombia,137,41,557.0,South America
+2000,Croatia,2,85,5831000.0,Europe
+2000,Cyprus,2,49,2686000.0,Europe
+2000,Ecuador,4,57,627.0,South America
+2000,Ethiopia,1,62,136.0,Africa
+2000,Fiji,4,64,294.0,Oceania
+2000,France,28,65,77190000.0,Europe
+2000,Georgia,7,70,387.0,Asia
+2000,Germany,8,51,18983000.0,Europe
+2000,Greece,28,77,13096000.0,Europe
+2000,Guatemala,1,80,826.0,North America
+2000,Haiti,9,86,140.0,North America
+2000,India,180,91,2649000.0,Asia
+2000,Indonesia,101,88,5064000.0,Asia
+2000,Iran,15,94,1342000.0,Asia
+2000,Israel,15,97,2417000.0,Asia
+2000,Italy,8,98,41181000.0,Europe
+2000,Japan,13,101,4757000.0,Asia
+2000,Jordan,2,100,1580000.0,Asia
+2000,Kenya,4,103,899.0,Africa
+2000,Latvia,3,120,509.0,Europe
+2000,Lebanon,12,111,742.0,Asia
+2000,Malaysia,3,141,10222000.0,Asia
+2000,Mexico,4,128,20641000.0,North America
+2000,Namibia,21,142,656.0,Africa
+2000,Nepal,23,149,464.0,Asia
+2000,Netherlands,1,147,10003000.0,Europe
+2000,Nicaragua,1,146,486.0,North America
+2000,Panama,1,155,484.0,North America
+2000,Paraguay,2,164,289.0,South America
+2000,Peru,3,156,800.0,South America
+2000,Philippines,132,157,1992000.0,Asia
+2000,Qatar,1,168,378.0,Asia
+2000,Russia,138,170,21169000.0,Europe
+2000,Senegal,4,175,389.0,Africa
+2000,Slovak Republic,1,187,1053000.0,Europe
+2000,Slovenia,1,188,1090000.0,Europe
+2000,South Africa,21,221,5872000.0,Africa
+2000,Spain,112,60,46403000.0,Europe
+2000,Sri Lanka,68,116,400.0,Asia
+2000,St. Lucia,1,114,270.0,North America
+2000,Sudan,7,174,38.0,Africa
+2000,Sweden,1,189,3828000.0,Europe
+2000,Tanzania,2,206,459.0,Africa
+2000,Thailand,4,197,9579000.0,Asia
+2000,Tunisia,1,203,5058000.0,Africa
+2000,Turkey,35,204,9586000.0,Asia
+2000,Uganda,20,207,193.0,Africa
+2000,Ukraine,1,208,6431000.0,Europe
+2000,United Kingdom,61,69,23212000.0,Europe
+2000,United States,32,210,51238000.0,North America
+2000,Zambia,8,222,457.0,Africa
+2000,Zimbabwe,1,223,1967000.0,Africa
+2001,Albania,1,4,354.0,Europe
+2001,Algeria,113,56,901.0,Africa
+2001,Angola,40,3,67.0,Africa
+2001,Argentina,2,7,2620000.0,South America
+2001,Armenia,2,8,123.0,Asia
+2001,Australia,2,11,4856000.0,Oceania
+2001,Belarus,1,23,61.0,Europe
+2001,Brazil,3,27,4773000.0,South America
+2001,Bulgaria,1,19,3186000.0,Europe
+2001,Burundi,37,14,36.0,Africa
+2001,Cambodia,7,105,605.0,Asia
+2001,Chile,3,35,1723000.0,South America
+2001,China,12,36,33167000.0,Asia
+2001,Colombia,207,41,616.0,South America
+2001,Costa Rica,1,44,1131000.0,North America
+2001,Croatia,3,85,6544000.0,Europe
+2001,Cyprus,1,49,2697000.0,Europe
+2001,Czech Republic,1,50,5405000.0,Europe
+2001,Ecuador,5,57,641.0,South America
+2001,Estonia,1,61,1320000.0,Europe
+2001,Fiji,1,64,348.0,Oceania
+2001,France,21,65,75202000.0,Europe
+2001,Georgia,4,70,302.0,Asia
+2001,Germany,8,51,17861000.0,Europe
+2001,Greece,14,77,14057000.0,Europe
+2001,Guatemala,2,80,835.0,North America
+2001,Guyana,1,82,99.0,South America
+2001,Haiti,5,86,142.0,North America
+2001,Hungary,1,87,3070000.0,Europe
+2001,India,234,91,2537000.0,Asia
+2001,Indonesia,105,88,5153000.0,Asia
+2001,Iran,4,94,1402000.0,Asia
+2001,Ireland,2,93,6353000.0,Europe
+2001,Israel,79,97,1196000.0,Asia
+2001,Italy,11,98,39563000.0,Europe
+2001,Japan,3,101,4772000.0,Asia
+2001,Jordan,2,100,1672000.0,Asia
+2001,Kenya,7,103,841.0,Africa
+2001,Lebanon,5,111,837.0,Asia
+2001,Malaysia,1,141,12775000.0,Asia
+2001,Mexico,7,128,19810000.0,North America
+2001,Myanmar,3,133,475.0,Asia
+2001,Namibia,6,142,670.0,Africa
+2001,Nepal,33,149,361.0,Asia
+2001,Netherlands,1,147,9500000.0,Europe
+2001,Norway,1,148,3073000.0,Europe
+2001,Peru,3,156,901.0,South America
+2001,Philippines,50,157,1797000.0,Asia
+2001,Poland,1,160,15000000.0,Europe
+2001,Qatar,1,168,376.0,Asia
+2001,Russia,135,170,21595000.0,Europe
+2001,Senegal,8,175,396.0,Africa
+2001,South Korea,1,108,5147000.0,Asia
+2001,Spain,79,60,48565000.0,Europe
+2001,Sri Lanka,36,116,337.0,Asia
+2001,Sudan,9,174,50.0,Africa
+2001,Tanzania,4,206,501.0,Africa
+2001,Thailand,14,197,10133000.0,Asia
+2001,Tunisia,1,203,5387000.0,Africa
+2001,Turkey,19,204,10783000.0,Asia
+2001,Uganda,24,207,205.0,Africa
+2001,United Kingdom,94,69,20982000.0,Europe
+2001,United States,41,210,46927000.0,North America
+2001,Venezuela,5,213,584.0,South America
+2001,Vietnam,4,216,2330000.0,Asia
+2001,Zimbabwe,3,223,2217000.0,Africa
+2002,Algeria,132,56,988.0,Africa
+2002,Angola,6,3,91.0,Africa
+2002,Belgium,3,15,6720000.0,Europe
+2002,Brazil,1,27,3785000.0,South America
+2002,Bulgaria,1,19,3433000.0,Europe
+2002,Burundi,18,14,74.0,Africa
+2002,Cambodia,3,105,787.0,Asia
+2002,Chile,1,35,1412000.0,South America
+2002,China,2,36,36803000.0,Asia
+2002,Colombia,150,41,567.0,South America
+2002,Ecuador,2,57,683.0,South America
+2002,Ethiopia,3,62,156.0,Africa
+2002,France,32,65,77012000.0,Europe
+2002,Georgia,2,70,298.0,Asia
+2002,Germany,3,51,17969000.0,Europe
+2002,Greece,11,77,14180000.0,Europe
+2002,Guyana,1,82,104.0,South America
+2002,Haiti,2,86,140.0,North America
+2002,Honduras,1,84,550.0,North America
+2002,India,184,91,2384000.0,Asia
+2002,Indonesia,43,88,5033000.0,Asia
+2002,Israel,75,97,8619.0,Asia
+2002,Italy,7,98,39799000.0,Europe
+2002,Japan,2,101,5239000.0,Asia
+2002,Jordan,2,100,2384000.0,Asia
+2002,Kenya,2,103,838.0,Africa
+2002,Lebanon,8,111,956.0,Asia
+2002,Madagascar,5,126,62.0,Africa
+2002,Malawi,1,140,383.0,Africa
+2002,Myanmar,4,133,487.0,Asia
+2002,Nepal,58,149,275.0,Asia
+2002,Netherlands,2,147,9595000.0,Europe
+2002,Peru,2,156,1064000.0,South America
+2002,Philippines,48,157,1933000.0,Asia
+2002,Russia,89,170,23309000.0,Europe
+2002,Senegal,3,175,427.0,Africa
+2002,South Africa,8,221,6430000.0,Africa
+2002,Spain,41,60,50331000.0,Europe
+2002,Sri Lanka,3,116,393.0,Asia
+2002,Sudan,13,174,52.0,Africa
+2002,Tanzania,2,206,550.0,Africa
+2002,Thailand,12,197,10873000.0,Asia
+2002,Tunisia,1,203,5064000.0,Africa
+2002,Turkey,5,204,12790000.0,Asia
+2002,Uganda,24,207,254.0,Africa
+2002,Ukraine,3,208,10517000.0,Europe
+2002,United Kingdom,21,69,22307000.0,Europe
+2002,United States,33,210,43581000.0,North America
+2002,Venezuela,5,213,432.0,South America
+2002,Zambia,1,222,565.0,Africa
+2002,Zimbabwe,8,223,2041000.0,Africa
+2003,Albania,1,4,557.0,Europe
+2003,Algeria,75,56,1166000.0,Africa
+2003,Argentina,1,7,2995000.0,South America
+2003,Bahrain,1,20,4844000.0,Asia
+2003,Belgium,8,15,6690000.0,Europe
+2003,Bolivia,1,26,427.0,South America
+2003,Brazil,1,27,4133000.0,South America
+2003,Burundi,18,14,74.0,Africa
+2003,Cambodia,1,105,701.0,Asia
+2003,Chile,2,35,1614000.0,South America
+2003,China,3,36,32970000.0,Asia
+2003,Colombia,98,41,625.0,South America
+2003,Czech Republic,1,50,5076000.0,Europe
+2003,Ecuador,4,57,761.0,South America
+2003,Ethiopia,1,62,180.0,Africa
+2003,France,34,65,75048000.0,Europe
+2003,Georgia,6,70,313.0,Asia
+2003,Germany,2,51,18399000.0,Europe
+2003,Greece,12,77,13969000.0,Europe
+2003,Guatemala,3,80,880.0,North America
+2003,Guyana,1,82,101.0,South America
+2003,Haiti,5,86,136.0,North America
+2003,India,196,91,2726000.0,Asia
+2003,Indonesia,18,88,4467000.0,Asia
+2003,Iran,2,94,1546000.0,Asia
+2003,Ireland,1,93,6764000.0,Europe
+2003,Israel,38,97,1063000.0,Asia
+2003,Italy,15,98,39604000.0,Europe
+2003,Japan,2,101,5212000.0,Asia
+2003,Kenya,2,103,927.0,Africa
+2003,Lebanon,5,111,1016000.0,Asia
+2003,Mexico,1,128,18665000.0,North America
+2003,Morocco,5,123,4761000.0,Africa
+2003,Myanmar,9,133,597.0,Asia
+2003,Nepal,15,149,338.0,Asia
+2003,Netherlands,3,147,9181000.0,Europe
+2003,Norway,1,148,3269000.0,Europe
+2003,Peru,1,156,1136000.0,South America
+2003,Philippines,107,157,1907000.0,Asia
+2003,Russia,76,170,22521000.0,Europe
+2003,South Korea,1,108,4753000.0,Asia
+2003,Spain,21,60,50854000.0,Europe
+2003,Sri Lanka,9,116,501.0,Asia
+2003,Thailand,6,197,10082000.0,Asia
+2003,Turkey,19,204,13341000.0,Asia
+2003,Uganda,30,207,305.0,Africa
+2003,Ukraine,1,208,12514000.0,Europe
+2003,United Kingdom,23,69,22787000.0,Europe
+2003,United States,33,210,41218000.0,North America
+2003,Venezuela,8,213,337.0,South America
+2003,Zimbabwe,1,223,2256000.0,Africa
+2004,Algeria,67,56,1234000.0,Africa
+2004,Burundi,1,14,133.0,Africa
+2004,Canada,2,32,19145000.0,North America
+2004,China,2,36,41761000.0,Asia
+2004,Colombia,37,41,791.0,South America
+2004,Cyprus,1,49,2349000.0,Europe
+2004,Ecuador,2,57,819.0,South America
+2004,Egypt,3,58,7795000.0,Africa
+2004,Ethiopia,2,62,184.0,Africa
+2004,France,11,65,74433000.0,Europe
+2004,Georgia,3,70,368.0,Asia
+2004,Germany,3,51,20137000.0,Europe
+2004,Greece,4,77,13313000.0,Europe
+2004,Guatemala,2,80,1182000.0,North America
+2004,Haiti,2,86,96.0,North America
+2004,Honduras,1,84,641.0,North America
+2004,India,108,91,3457000.0,Asia
+2004,Indonesia,17,88,5321000.0,Asia
+2004,Israel,19,97,1505600.0,Asia
+2004,Italy,3,98,37071000.0,Europe
+2004,Lebanon,1,111,1278000.0,Asia
+2004,Mexico,1,128,20618000.0,North America
+2004,Myanmar,2,133,657.0,Asia
+2004,Nepal,62,149,385.0,Asia
+2004,Netherlands,1,147,9646000.0,Europe
+2004,Peru,3,156,1350000.0,South America
+2004,Philippines,32,157,2291000.0,Asia
+2004,Russia,44,170,22064000.0,Europe
+2004,Spain,31,60,52430000.0,Europe
+2004,Sri Lanka,33,116,566.0,Asia
+2004,Sudan,5,174,61.0,Africa
+2004,Tanzania,1,206,566.0,Africa
+2004,Thailand,44,197,11737000.0,Asia
+2004,Turkey,27,204,16826000.0,Asia
+2004,Uganda,10,207,512.0,Africa
+2004,United Kingdom,5,69,25678000.0,Europe
+2004,United States,9,210,46086000.0,North America
+2005,Algeria,104,56,1443000.0,Africa
+2005,Argentina,3,7,3823000.0,South America
+2005,Bolivia,1,26,524.0,South America
+2005,Burundi,5,14,148.0,Africa
+2005,China,1,36,46809000.0,Asia
+2005,Colombia,42,41,933.0,South America
+2005,Croatia,1,85,7743000.0,Europe
+2005,Egypt,2,58,8244000.0,Africa
+2005,Ethiopia,5,62,227.0,Africa
+2005,France,33,65,74988000.0,Europe
+2005,Georgia,6,70,560.0,Asia
+2005,Germany,3,51,21500000.0,Europe
+2005,Greece,6,77,14765000.0,Europe
+2005,Haiti,1,86,112.0,North America
+2005,India,146,91,3919000.0,Asia
+2005,Indonesia,15,88,5002000.0,Asia
+2005,Iran,5,94,1889000.0,Asia
+2005,Israel,43,97,1903000.0,Asia
+2005,Italy,6,98,36513000.0,Europe
+2005,Jordan,4,100,2987000.0,Asia
+2005,Kenya,2,103,1399000.0,Africa
+2005,Lebanon,17,111,1140000.0,Asia
+2005,Mali,1,131,143.0,Africa
+2005,Mexico,1,128,21915000.0,North America
+2005,Myanmar,8,133,660.0,Asia
+2005,Nepal,70,149,375.0,Asia
+2005,Peru,2,156,1571000.0,South America
+2005,Philippines,25,157,2623000.0,Asia
+2005,Qatar,1,168,913.0,Asia
+2005,Russia,64,170,22201000.0,Europe
+2005,Senegal,1,175,769.0,Africa
+2005,Spain,24,60,55914000.0,Europe
+2005,Sri Lanka,133,116,549.0,Asia
+2005,Sudan,6,174,246.0,Africa
+2005,Sweden,3,189,4883000.0,Europe
+2005,Thailand,155,197,11567000.0,Asia
+2005,Togo,1,196,81.0,Africa
+2005,Trinidad and Tobago,2,202,463.0,North America
+2005,Turkey,41,204,20273000.0,Asia
+2005,Uganda,11,207,468.0,Africa
+2005,United Kingdom,29,69,28039000.0,Europe
+2005,United States,21,210,49206000.0,North America
+2005,Uruguay,1,209,1808000.0,South America
+2006,Algeria,152,56,1638000.0,Africa
+2006,Australia,2,11,5532000.0,Oceania
+2006,Austria,1,12,20269000.0,Europe
+2006,Bahrain,1,20,7289000.0,Asia
+2006,Belarus,1,23,89.0,Europe
+2006,Bhutan,1,30,173.0,Asia
+2006,Brazil,3,27,5017000.0,South America
+2006,Burundi,5,14,214.0,Africa
+2006,Canada,2,32,18265000.0,North America
+2006,Chile,1,35,2253000.0,South America
+2006,Colombia,43,41,2045000.0,South America
+2006,Egypt,5,58,8646000.0,Africa
+2006,Ethiopia,11,62,330.0,Africa
+2006,France,34,65,77916000.0,Europe
+2006,Georgia,3,70,983.0,Asia
+2006,Germany,4,51,23569000.0,Europe
+2006,Greece,23,77,16039000.0,Europe
+2006,Guatemala,4,80,1502000.0,North America
+2006,Guyana,2,82,113.0,South America
+2006,Haiti,1,86,108.0,North America
+2006,India,167,91,4447000.0,Asia
+2006,Indonesia,10,88,4871000.0,Asia
+2006,Iran,14,94,2735000.0,Asia
+2006,Ireland,1,93,8001000.0,Europe
+2006,Israel,81,97,1825000.0,Asia
+2006,Italy,4,98,41058000.0,Europe
+2006,Jordan,1,100,3225000.0,Asia
+2006,Kenya,2,103,1464000.0,Africa
+2006,Lebanon,8,111,1063000.0,Asia
+2006,Lesotho,1,117,357.0,Africa
+2006,Madagascar,1,126,312.0,Africa
+2006,Maldives,1,127,602.0,Asia
+2006,Mexico,7,128,21353000.0,North America
+2006,Myanmar,2,133,630.0,Asia
+2006,Nepal,83,149,384.0,Asia
+2006,Norway,1,148,4070000.0,Europe
+2006,Peru,1,156,1721000.0,South America
+2006,Philippines,58,157,2843000.0,Asia
+2006,Russia,56,170,22486000.0,Europe
+2006,South Korea,1,108,6155000.0,Asia
+2006,Spain,23,60,58004000.0,Europe
+2006,Sri Lanka,217,116,560.0,Asia
+2006,Sudan,24,174,328.0,Africa
+2006,Sweden,1,189,4729000.0,Europe
+2006,Thailand,202,197,13822000.0,Asia
+2006,Turkey,43,204,18916000.0,Asia
+2006,United Kingdom,6,69,30654000.0,Europe
+2006,United States,6,210,50977000.0,North America
+2006,Zimbabwe,1,223,2287000.0,Africa
+2007,Algeria,124,56,1743000.0,Africa
+2007,Armenia,1,8,511.0,Asia
+2007,Austria,1,12,20773000.0,Europe
+2007,Belgium,1,15,7045000.0,Europe
+2007,Benin,1,16,186.0,Africa
+2007,Bolivia,3,26,573.0,South America
+2007,Burundi,3,14,192.0,Africa
+2007,Chile,8,35,2507000.0,South America
+2007,Colombia,30,41,2254000.0,South America
+2007,Cuba,1,46,2119000.0,North America
+2007,Cyprus,1,49,2416000.0,Europe
+2007,Ethiopia,5,62,358.0,Africa
+2007,Finland,1,63,2472000.0,Europe
+2007,France,16,65,80853000.0,Europe
+2007,Germany,3,51,24421000.0,Europe
+2007,Greece,15,77,16165000.0,Europe
+2007,Haiti,2,86,386.0,North America
+2007,India,149,91,5082000.0,Asia
+2007,Indonesia,2,88,5506000.0,Asia
+2007,Iran,9,94,2219000.0,Asia
+2007,Ireland,1,93,8332000.0,Europe
+2007,Israel,53,97,2067000.0,Asia
+2007,Jamaica,1,99,1701000.0,North America
+2007,Kenya,12,103,1686000.0,Africa
+2007,Latvia,1,120,1653000.0,Europe
+2007,Lebanon,18,111,1017000.0,Asia
+2007,Maldives,1,127,676.0,Asia
+2007,Mali,5,131,164.0,Africa
+2007,Mexico,10,128,21606000.0,North America
+2007,Morocco,6,123,7408000.0,Africa
+2007,Myanmar,3,133,716.0,Asia
+2007,Nepal,90,149,527.0,Asia
+2007,Niger,7,144,48.0,Africa
+2007,Peru,4,156,1916000.0,South America
+2007,Philippines,65,157,3092000.0,Asia
+2007,Russia,51,170,22909000.0,Europe
+2007,Senegal,1,175,875.0,Africa
+2007,South Africa,2,221,9091000.0,Africa
+2007,Spain,11,60,58666000.0,Europe
+2007,Sri Lanka,132,116,494.0,Asia
+2007,Sudan,23,174,436.0,Africa
+2007,Thailand,293,197,14464000.0,Asia
+2007,Tunisia,1,203,6762000.0,Africa
+2007,Turkey,29,204,26122000.0,Asia
+2007,Uganda,1,207,642.0,Africa
+2007,Ukraine,1,208,23122000.0,Europe
+2007,United Kingdom,20,69,30870000.0,Europe
+2007,United States,8,210,56135000.0,North America
+2007,Venezuela,2,213,756.0,South America
+2007,Zimbabwe,1,223,2506000.0,Africa
+2008,Algeria,107,56,1772000.0,Africa
+2008,Australia,3,11,5586000.0,Oceania
+2008,Austria,7,12,21935000.0,Europe
+2008,Bahrain,1,20,8631000.0,Asia
+2008,Belarus,1,23,905.0,Europe
+2008,Bhutan,3,30,28.0,Asia
+2008,Bulgaria,2,19,5780000.0,Europe
+2008,Burundi,7,14,202.0,Africa
+2008,Cambodia,2,105,2125000.0,Asia
+2008,Canada,5,32,17142000.0,North America
+2008,Chile,4,35,2710000.0,South America
+2008,China,20,36,53049000.0,Asia
+2008,Colombia,133,41,2317000.0,South America
+2008,Croatia,2,85,8665000.0,Europe
+2008,Czech Republic,2,50,6649000.0,Europe
+2008,Ecuador,2,57,1005000.0,South America
+2008,Egypt,1,58,12296000.0,Africa
+2008,Ethiopia,8,62,383.0,Africa
+2008,Finland,1,63,2494000.0,Europe
+2008,France,13,65,79218000.0,Europe
+2008,Georgia,33,70,1290000.0,Asia
+2008,Germany,3,51,24884000.0,Europe
+2008,Greece,53,77,15939000.0,Europe
+2008,Guyana,3,82,130.0,South America
+2008,Hungary,2,87,3516000.0,Europe
+2008,India,534,91,5283000.0,Asia
+2008,Indonesia,13,88,6234000.0,Asia
+2008,Iran,8,94,2034000.0,Asia
+2008,Ireland,5,93,8026000.0,Europe
+2008,Israel,134,97,2572000.0,Asia
+2008,Italy,2,98,42734000.0,Europe
+2008,Japan,3,101,8351000.0,Asia
+2008,Kenya,11,103,1141000.0,Africa
+2008,Lebanon,58,111,1333000.0,Asia
+2008,Malaysia,2,141,22052000.0,Asia
+2008,Maldives,1,127,683.0,Asia
+2008,Mali,9,131,190.0,Africa
+2008,Mexico,8,128,22931000.0,North America
+2008,Myanmar,20,133,731.0,Asia
+2008,Nepal,120,149,500.0,Asia
+2008,Netherlands,1,147,10104000.0,Europe
+2008,Niger,9,144,73.0,Africa
+2008,Peru,1,156,2058000.0,South America
+2008,Philippines,276,157,3139000.0,Asia
+2008,Romania,1,169,8862000.0,Europe
+2008,Russia,170,170,23676000.0,Europe
+2008,Senegal,2,175,867.0,Africa
+2008,South Africa,1,221,9592000.0,Africa
+2008,Spain,37,60,57192000.0,Europe
+2008,Sri Lanka,100,116,438.0,Asia
+2008,Sudan,32,174,440.0,Africa
+2008,Sweden,1,189,4555000.0,Europe
+2008,Tanzania,1,206,750.0,Africa
+2008,Thailand,200,197,14584000.0,Asia
+2008,Tunisia,2,203,7050000.0,Africa
+2008,Turkey,32,204,29792000.0,Asia
+2008,Uganda,7,207,844.0,Africa
+2008,Ukraine,1,208,25449000.0,Europe
+2008,United Kingdom,39,69,30142000.0,Europe
+2008,United States,18,210,58007000.0,North America
+2008,Venezuela,1,213,699.0,South America
+2008,Zimbabwe,5,223,1956000.0,Africa
+2009,Albania,1,4,1711000.0,Europe
+2009,Algeria,108,56,1912000.0,Africa
+2009,Angola,1,3,366.0,Africa
+2009,Argentina,1,7,4308000.0,South America
+2009,Armenia,1,8,575.0,Asia
+2009,Australia,1,11,5490000.0,Oceania
+2009,Austria,3,12,21355000.0,Europe
+2009,Belgium,1,15,6815000.0,Europe
+2009,Bolivia,3,26,599.0,South America
+2009,Canada,4,32,15737000.0,North America
+2009,Chile,8,35,2760000.0,South America
+2009,China,7,36,50875000.0,Asia
+2009,Colombia,139,41,2364000.0,South America
+2009,Croatia,1,85,8694000.0,Europe
+2009,Czech Republic,1,50,6032000.0,Europe
+2009,Ecuador,1,57,968.0,South America
+2009,Egypt,2,58,11914000.0,Africa
+2009,Ethiopia,2,62,427.0,Africa
+2009,France,9,65,76764000.0,Europe
+2009,Georgia,25,70,1500000.0,Asia
+2009,Germany,4,51,24220000.0,Europe
+2009,Greece,115,77,14915000.0,Europe
+2009,Honduras,8,84,836.0,North America
+2009,Hungary,1,87,3228000.0,Europe
+2009,India,672,91,5168000.0,Asia
+2009,Indonesia,19,88,6324000.0,Asia
+2009,Iran,15,94,2116000.0,Asia
+2009,Israel,36,97,2321000.0,Asia
+2009,Italy,4,98,43239000.0,Europe
+2009,Japan,1,101,6790000.0,Asia
+2009,Kenya,1,103,1392000.0,Africa
+2009,Lebanon,14,111,1844000.0,Asia
+2009,Lesotho,1,117,344.0,Africa
+2009,Madagascar,1,126,163.0,Africa
+2009,Malaysia,1,141,23646000.0,Asia
+2009,Mali,6,131,160.0,Africa
+2009,Mexico,1,128,22346000.0,North America
+2009,Myanmar,14,133,763.0,Asia
+2009,Nepal,39,149,510.0,Asia
+2009,Netherlands,1,147,9921000.0,Europe
+2009,Niger,4,144,66.0,Africa
+2009,Panama,1,155,1200000.0,North America
+2009,Peru,4,156,2140000.0,South America
+2009,Philippines,229,157,3017000.0,Asia
+2009,Russia,152,170,21339000.0,Europe
+2009,Senegal,3,175,810.0,Africa
+2009,Spain,21,60,52178000.0,Europe
+2009,Sri Lanka,37,116,448.0,Asia
+2009,Sudan,26,174,420.0,Africa
+2009,Sweden,1,189,4899000.0,Europe
+2009,Thailand,298,197,14150000.0,Asia
+2009,Turkey,13,204,30187000.0,Asia
+2009,Uganda,2,207,807.0,Africa
+2009,Ukraine,2,208,20798000.0,Europe
+2009,United Kingdom,23,69,28199000.0,Europe
+2009,United States,11,210,55103000.0,North America
+2009,Venezuela,3,213,562.0,South America
+2010,Algeria,100,56,2070000.0,Africa
+2010,Angola,2,3,425.0,Africa
+2010,Argentina,5,7,5325000.0,South America
+2010,Australia,1,11,5790000.0,Oceania
+2010,Bahrain,2,20,11952000.0,Asia
+2010,Belarus,2,23,1193.0,Europe
+2010,Burundi,29,14,142.0,Africa
+2010,Canada,2,32,16219000.0,North America
+2010,Chile,5,35,2801000.0,South America
+2010,China,1,36,55664000.0,Asia
+2010,Colombia,136,41,1405000.0,South America
+2010,Egypt,2,58,14051000.0,Africa
+2010,Ethiopia,2,62,468.0,Africa
+2010,France,3,65,76647000.0,Europe
+2010,Georgia,7,70,2032000.0,Asia
+2010,Germany,1,51,26875000.0,Europe
+2010,Greece,49,77,15007000.0,Europe
+2010,India,663,91,5776000.0,Asia
+2010,Indonesia,4,88,7003000.0,Asia
+2010,Iran,14,94,2938000.0,Asia
+2010,Ireland,4,93,7134000.0,Europe
+2010,Israel,14,97,2803000.0,Asia
+2010,Italy,10,98,43626000.0,Europe
+2010,Jordan,2,100,4207000.0,Asia
+2010,Kenya,12,103,1470000.0,Africa
+2010,Lebanon,5,111,2168000.0,Asia
+2010,Mali,1,131,169.0,Africa
+2010,Mexico,5,128,23290000.0,North America
+2010,Myanmar,11,133,792.0,Asia
+2010,Nepal,38,149,603.0,Asia
+2010,Netherlands,1,147,10883000.0,Europe
+2010,Niger,3,144,74.0,Africa
+2010,Norway,1,148,4767000.0,Europe
+2010,Paraguay,2,164,465.0,South America
+2010,Philippines,205,157,3520000.0,Asia
+2010,Poland,1,160,12470000.0,Europe
+2010,Russia,251,170,22281000.0,Europe
+2010,Senegal,1,175,900.0,Africa
+2010,Spain,3,60,52677000.0,Europe
+2010,Sri Lanka,3,116,654.0,Asia
+2010,Sudan,28,174,495.0,Africa
+2010,Sweden,3,189,5183000.0,Europe
+2010,Tanzania,1,206,754.0,Africa
+2010,Thailand,253,197,15936000.0,Asia
+2010,Trinidad and Tobago,1,202,388.0,North America
+2010,Turkey,20,204,31364000.0,Asia
+2010,Uganda,6,207,946.0,Africa
+2010,Ukraine,4,208,21203000.0,Europe
+2010,United Kingdom,57,69,28295000.0,Europe
+2010,United States,17,210,60010000.0,North America
+2010,Zimbabwe,1,223,2239000.0,Africa
+2011,Algeria,15,56,2395000.0,Africa
+2011,Argentina,1,7,5705000.0,South America
+2011,Austria,1,12,23012000.0,Europe
+2011,Bahrain,1,20,6732000.0,Asia
+2011,Belarus,1,23,116.0,Europe
+2011,Bhutan,1,30,66.0,Asia
+2011,Bulgaria,2,19,6328000.0,Europe
+2011,Burundi,8,14,144.0,Africa
+2011,Chile,6,35,3137000.0,South America
+2011,China,4,36,57581000.0,Asia
+2011,Colombia,94,41,2042000.0,South America
+2011,Czech Republic,1,50,6715000.0,Europe
+2011,Ecuador,1,57,1141000.0,South America
+2011,Egypt,18,58,9497000.0,Africa
+2011,Estonia,1,61,2823000.0,Europe
+2011,Ethiopia,3,62,523.0,Africa
+2011,France,8,65,80499000.0,Europe
+2011,Georgia,3,70,2712000.0,Asia
+2011,Germany,8,51,28374000.0,Europe
+2011,Greece,11,77,16427000.0,Europe
+2011,Honduras,1,84,871.0,North America
+2011,India,645,91,6309000.0,Asia
+2011,Indonesia,21,88,7650000.0,Asia
+2011,Iran,13,94,3354000.0,Asia
+2011,Ireland,4,93,7630000.0,Europe
+2011,Israel,51,97,2820000.0,Asia
+2011,Italy,5,98,46119000.0,Europe
+2011,Kenya,42,103,1750000.0,Africa
+2011,Lebanon,10,111,1655000.0,Asia
+2011,Madagascar,1,126,225.0,Africa
+2011,Mali,4,131,160.0,Africa
+2011,Mexico,2,128,23403000.0,North America
+2011,Morocco,1,123,9342000.0,Africa
+2011,Myanmar,2,133,816.0,Asia
+2011,Nepal,46,149,736.0,Asia
+2011,Netherlands,2,147,11300000.0,Europe
+2011,Niger,2,144,82.0,Africa
+2011,Norway,3,148,4963000.0,Europe
+2011,Paraguay,4,164,524.0,South America
+2011,Philippines,151,157,3917000.0,Asia
+2011,Portugal,2,163,7264000.0,Europe
+2011,Russia,188,170,24932000.0,Europe
+2011,Senegal,4,175,968.0,Africa
+2011,Sudan,38,174,536.0,Africa
+2011,Sweden,1,189,5222000.0,Europe
+2011,Thailand,182,197,19230000.0,Asia
+2011,Tunisia,3,203,5746000.0,Africa
+2011,Turkey,51,204,34654000.0,Asia
+2011,Ukraine,3,208,21415000.0,Europe
+2011,United Kingdom,47,69,29306000.0,Europe
+2011,United States,10,210,62821000.0,North America
+2011,Zimbabwe,1,223,2423000.0,Africa
+2012,Algeria,41,56,2634000.0,Africa
+2012,Argentina,2,7,5587000.0,South America
+2012,Bahrain,26,20,8062000.0,Asia
+2012,Belarus,3,23,6129900.0,Europe
+2012,Belgium,1,15,7560000.0,Europe
+2012,Bolivia,1,26,798.0,South America
+2012,Brazil,1,27,5677000.0,South America
+2012,Bulgaria,2,19,6541000.0,Europe
+2012,Burundi,4,14,147.0,Africa
+2012,Canada,3,32,16344000.0,North America
+2012,Chile,2,35,3554000.0,South America
+2012,China,4,36,57725000.0,Asia
+2012,Colombia,115,41,2175000.0,South America
+2012,Cyprus,1,49,2465000.0,Europe
+2012,Ecuador,1,57,1272000.0,South America
+2012,Egypt,49,58,11196000.0,Africa
+2012,Ethiopia,3,62,597.0,Africa
+2012,France,66,65,81980000.0,Europe
+2012,Georgia,3,70,4106000.0,Asia
+2012,Germany,5,51,30411000.0,Europe
+2012,Greece,22,77,15518000.0,Europe
+2012,Guatemala,1,80,1491000.0,North America
+2012,Iceland,1,96,673.0,Europe
+2012,India,611,91,6578000.0,Asia
+2012,Indonesia,39,88,8044000.0,Asia
+2012,Iran,5,94,3834000.0,Asia
+2012,Ireland,29,93,7550000.0,Europe
+2012,Israel,65,97,2886000.0,Asia
+2012,Italy,10,98,46360000.0,Europe
+2012,Jordan,2,100,4162000.0,Asia
+2012,Kenya,80,103,1619000.0,Africa
+2012,Lebanon,15,111,1366000.0,Asia
+2012,Madagascar,1,126,256.0,Africa
+2012,Malaysia,2,141,25033000.0,Asia
+2012,Maldives,1,127,958.0,Asia
+2012,Mali,19,131,134.0,Africa
+2012,Mexico,16,128,23403000.0,North America
+2012,Myanmar,17,133,1059000.0,Asia
+2012,Nepal,46,149,803.0,Asia
+2012,Niger,1,144,94.0,Africa
+2012,Paraguay,4,164,579.0,South America
+2012,Peru,6,156,2846000.0,South America
+2012,Philippines,249,157,4273000.0,Asia
+2012,Russia,151,170,28177000.0,Europe
+2012,Senegal,12,175,962.0,Africa
+2012,South Africa,4,221,9188000.0,Africa
+2012,Spain,1,60,57464000.0,Europe
+2012,Sri Lanka,4,116,1006000.0,Asia
+2012,Sudan,40,174,575.0,Africa
+2012,Sweden,2,189,5146000.0,Europe
+2012,Thailand,279,197,22354000.0,Asia
+2012,Tunisia,3,203,6999000.0,Africa
+2012,Turkey,188,204,35698000.0,Asia
+2012,Uganda,4,207,1197000.0,Africa
+2012,Ukraine,8,208,23013000.0,Europe
+2012,United Kingdom,55,69,29282000.0,Europe
+2012,United States,20,210,66657000.0,North America
+2012,Venezuela,1,213,988.0,South America
+2013,Albania,1,4,2857000.0,Europe
+2013,Algeria,22,56,2733000.0,Africa
+2013,Argentina,2,7,5246000.0,South America
+2013,Armenia,1,8,1084000.0,Asia
+2013,Australia,1,11,6482000.0,Oceania
+2013,Austria,1,12,24813000.0,Europe
+2013,Bahrain,52,20,9163000.0,Asia
+2013,Belize,1,24,294.0,North America
+2013,Brazil,3,27,5813000.0,South America
+2013,Bulgaria,3,19,6898000.0,Europe
+2013,Burkina Faso,1,17,218.0,Africa
+2013,Burundi,2,14,234.0,Africa
+2013,Cambodia,2,105,4210000.0,Asia
+2013,Canada,4,32,16059000.0,North America
+2013,Chile,5,35,3576000.0,South America
+2013,China,12,36,55686000.0,Asia
+2013,Colombia,149,41,2288000.0,South America
+2013,Croatia,2,85,10948000.0,Europe
+2013,Cyprus,9,49,2405000.0,Europe
+2013,Czech Republic,1,50,7852000.0,Europe
+2013,Dominican Republic,1,55,4690000.0,North America
+2013,Ecuador,2,57,1364000.0,South America
+2013,Egypt,321,58,9174000.0,Africa
+2013,Ethiopia,5,62,681.0,Africa
+2013,France,18,65,83634000.0,Europe
+2013,Georgia,2,70,4954000.0,Asia
+2013,Greece,54,77,17920000.0,Europe
+2013,Guatemala,6,80,1516000.0,North America
+2013,Honduras,2,84,863.0,North America
+2013,India,694,91,6968000.0,Asia
+2013,Indonesia,32,88,8802000.0,Asia
+2013,Iran,11,94,4769000.0,Asia
+2013,Ireland,27,93,8260000.0,Europe
+2013,Israel,37,97,2962000.0,Asia
+2013,Italy,7,98,47704000.0,Europe
+2013,Japan,1,101,10364000.0,Asia
+2013,Jordan,1,100,3945000.0,Asia
+2013,Kenya,80,103,1434000.0,Africa
+2013,Lebanon,121,111,1274000.0,Asia
+2013,Madagascar,2,126,196.0,Africa
+2013,Malaysia,13,141,25715000.0,Asia
+2013,Maldives,3,127,1125000.0,Asia
+2013,Mali,58,131,142.0,Africa
+2013,Mexico,8,128,24151000.0,North America
+2013,Myanmar,18,133,2044000.0,Asia
+2013,Nepal,104,149,798.0,Asia
+2013,Niger,4,144,123.0,Africa
+2013,Paraguay,10,164,610.0,South America
+2013,Peru,10,156,3164000.0,South America
+2013,Philippines,651,157,4681000.0,Asia
+2013,Russia,144,170,30792000.0,Europe
+2013,Senegal,3,175,1063000.0,Africa
+2013,South Africa,13,221,9537000.0,Africa
+2013,Spain,5,60,60675000.0,Europe
+2013,Sri Lanka,14,116,1275000.0,Asia
+2013,Sudan,46,174,591.0,Africa
+2013,Tanzania,7,206,1063000.0,Africa
+2013,Thailand,472,197,26547000.0,Asia
+2013,Trinidad and Tobago,3,202,434.0,North America
+2013,Tunisia,29,203,7352000.0,Africa
+2013,Turkey,42,204,37795000.0,Asia
+2013,Ukraine,5,208,24671000.0,Europe
+2013,United Kingdom,137,69,31063000.0,Europe
+2013,United States,20,210,69995000.0,North America
+2013,Venezuela,1,213,986.0,South America
+2013,Zimbabwe,3,223,1833000.0,Africa
+2014,Albania,2,4,3341000.0,Europe
+2014,Algeria,13,56,2301000.0,Africa
+2014,Argentina,1,7,5931000.0,South America
+2014,Australia,8,11,6922000.0,Oceania
+2014,Bahrain,42,20,10452000.0,Asia
+2014,Belgium,2,15,7887000.0,Europe
+2014,Bhutan,1,30,133.0,Asia
+2014,Brazil,3,27,6430000.0,South America
+2014,Bulgaria,1,19,7311000.0,Europe
+2014,Burundi,5,14,235.0,Africa
+2014,Canada,3,32,16537000.0,North America
+2014,Chile,17,35,3674000.0,South America
+2014,China,37,36,55622000.0,Asia
+2014,Colombia,231,41,2552000.0,South America
+2014,Cyprus,5,49,2441000.0,Europe
+2014,Czech Republic,5,50,8096000.0,Europe
+2014,Dominican Republic,1,55,5141400.0,North America
+2014,Egypt,354,58,9628300.0,Africa
+2014,Ethiopia,2,62,770.0,Africa
+2014,France,14,65,83701000.0,Europe
+2014,Georgia,2,70,5004000.0,Asia
+2014,Germany,13,51,32999000.0,Europe
+2014,Greece,26,77,22033000.0,Europe
+2014,Honduras,1,84,868.0,North America
+2014,Hungary,1,87,4618000.0,Europe
+2014,Iceland,1,96,9976.0,Europe
+2014,India,860,91,13107000.0,Asia
+2014,Indonesia,35,88,9435000.0,Asia
+2014,Iran,9,94,4968000.0,Asia
+2014,Ireland,33,93,8813000.0,Europe
+2014,Israel,293,97,2927000.0,Asia
+2014,Italy,7,98,48576000.0,Europe
+2014,Jamaica,1,99,2080000.0,North America
+2014,Japan,5,101,13413000.0,Asia
+2014,Jordan,3,100,3990000.0,Asia
+2014,Kenya,115,103,1261000.0,Africa
+2014,Lebanon,204,111,1355000.0,Asia
+2014,Madagascar,1,126,222.0,Africa
+2014,Malaysia,12,141,27437000.0,Asia
+2014,Maldives,9,127,1205000.0,Asia
+2014,Mali,69,131,168.0,Africa
+2014,Malta,1,132,1690000.0,Europe
+2014,Mexico,5,128,29346000.0,North America
+2014,Myanmar,15,133,3081000.0,Asia
+2014,Nepal,7,149,790.0,Asia
+2014,Netherlands,1,147,13925000.0,Europe
+2014,Nicaragua,2,146,1330000.0,North America
+2014,Niger,5,144,135.0,Africa
+2014,Paraguay,15,164,649.0,South America
+2014,Peru,12,156,3215000.0,South America
+2014,Philippines,597,157,4833000.0,Asia
+2014,Russia,48,170,32421000.0,Europe
+2014,Senegal,2,175,963.0,Africa
+2014,South Africa,20,221,9549000.0,Africa
+2014,Spain,4,60,64939000.0,Europe
+2014,Sri Lanka,16,116,1527000.0,Asia
+2014,Sudan,157,174,684.0,Africa
+2014,Sweden,5,189,5660000.0,Europe
+2014,Tanzania,11,206,1113000.0,Africa
+2014,Thailand,423,197,24810000.0,Asia
+2014,Tunisia,23,203,7163000.0,Africa
+2014,Turkey,94,204,39811000.0,Asia
+2014,Uganda,6,207,1266000.0,Africa
+2014,Ukraine,895,208,12712000.0,Europe
+2014,United Kingdom,103,69,32613000.0,Europe
+2014,United States,29,210,75022000.0,North America
+2014,Venezuela,4,213,857.0,South America
+2014,Zimbabwe,1,223,1880000.0,Africa
+2015,Albania,4,4,3784000.0,Europe
+2015,Algeria,16,56,1710000.0,Africa
+2015,Argentina,1,7,5736000.0,South America
+2015,Armenia,2,8,1192000.0,Asia
+2015,Australia,14,11,7450000.0,Oceania
+2015,Bahrain,18,20,9670000.0,Asia
+2015,Brazil,5,27,6306000.0,South America
+2015,Bulgaria,2,19,7099000.0,Europe
+2015,Burkina Faso,6,17,163.0,Africa
+2015,Burundi,102,14,131.0,Africa
+2015,Canada,5,32,17971000.0,North America
+2015,Chile,1,35,4478000.0,South America
+2015,China,17,36,56886000.0,Asia
+2015,Colombia,136,41,2978000.0,South America
+2015,Cyprus,3,49,2659000.0,Europe
+2015,Czech Republic,4,50,8707000.0,Europe
+2015,Ecuador,1,57,1544000.0,South America
+2015,Egypt,647,58,9139000.0,Africa
+2015,Estonia,2,61,2961000.0,Europe
+2015,Ethiopia,7,62,864.0,Africa
+2015,Finland,9,63,2622000.0,Europe
+2015,France,37,65,84452000.0,Europe
+2015,Georgia,1,70,5256000.0,Asia
+2015,Germany,65,51,34970000.0,Europe
+2015,Greece,31,77,23599000.0,Europe
+2015,Hungary,1,87,4929000.0,Europe
+2015,India,884,91,13284000.0,Asia
+2015,Indonesia,29,88,10407000.0,Asia
+2015,Iran,9,94,5237000.0,Asia
+2015,Ireland,28,93,9528000.0,Europe
+2015,Israel,58,97,2799000.0,Asia
+2015,Italy,5,98,50732000.0,Europe
+2015,Japan,10,101,19737000.0,Asia
+2015,Jordan,4,100,3761000.0,Asia
+2015,Kenya,71,103,1114000.0,Africa
+2015,Lebanon,44,111,1518000.0,Asia
+2015,Lesotho,1,117,1082000.0,Africa
+2015,Malaysia,5,141,25721000.0,Asia
+2015,Maldives,2,127,1234000.0,Asia
+2015,Mali,121,131,1593.0,Africa
+2015,Malta,1,132,1783000.0,Europe
+2015,Mexico,19,128,32093000.0,North America
+2015,Morocco,1,123,10177000.0,Africa
+2015,Myanmar,37,133,4681000.0,Asia
+2015,Nepal,48,149,539.0,Asia
+2015,Netherlands,3,147,15007000.0,Europe
+2015,Niger,41,144,135.0,Africa
+2015,Paraguay,19,164,1215000.0,South America
+2015,Peru,10,156,3456000.0,South America
+2015,Philippines,721,157,5361000.0,Asia
+2015,Qatar,1,168,2941100.0,Asia
+2015,Russia,21,170,33729000.0,Europe
+2015,Senegal,2,175,1006600.0,Africa
+2015,South Africa,5,221,8904000.0,Africa
+2015,South Korea,1,108,13232000.0,Asia
+2015,Spain,1,60,68175000.0,Europe
+2015,Sri Lanka,11,116,1798000.0,Asia
+2015,Sudan,158,174,741.0,Africa
+2015,Sweden,32,189,6482000.0,Europe
+2015,Tanzania,14,206,1104000.0,Africa
+2015,Thailand,278,197,29923000.0,Asia
+2015,Trinidad and Tobago,1,202,440.0,North America
+2015,Tunisia,17,203,5359000.0,Africa
+2015,Turkey,422,204,39478000.0,Asia
+2015,Uganda,10,207,1303000.0,Africa
+2015,Ukraine,637,208,12428000.0,Europe
+2015,United Kingdom,114,69,34436000.0,Europe
+2015,United States,38,210,77774000.0,North America
+2015,Venezuela,3,213,789.0,South America
+2016,Albania,2,4,4070000.0,Europe
+2016,Algeria,9,56,2039000.0,Africa
+2016,Angola,2,3,397.0,Africa
+2016,Argentina,2,7,6655000.0,South America
+2016,Armenia,2,8,1260000.0,Asia
+2016,Australia,9,11,8269000.0,Oceania
+2016,Austria,3,12,28121000.0,Europe
+2016,Bahrain,3,20,10158000.0,Asia
+2016,Belgium,6,15,7481000.0,Europe
+2016,Brazil,2,27,6547000.0,South America
+2016,Bulgaria,1,19,8252000.0,Europe
+2016,Burkina Faso,10,17,152.0,Africa
+2016,Burundi,83,14,187.0,Africa
+2016,Canada,6,32,19971000.0,North America
+2016,Chile,18,35,5641000.0,South America
+2016,China,5,36,59270000.0,Asia
+2016,Colombia,109,41,3317000.0,South America
+2016,Cyprus,2,49,3187000.0,Europe
+2016,Czech Republic,2,50,9321000.0,Europe
+2016,Ecuador,2,57,1418000.0,South America
+2016,Egypt,376,58,5258000.0,Africa
+2016,Ethiopia,13,62,871.0,Africa
+2016,Finland,3,63,2789000.0,Europe
+2016,France,26,65,82682000.0,Europe
+2016,Georgia,4,70,5393000.0,Asia
+2016,Germany,44,51,35555000.0,Europe
+2016,Greece,31,77,24799000.0,Europe
+2016,Guyana,1,82,235.0,South America
+2016,Haiti,1,86,445.0,North America
+2016,Honduras,1,84,838.0,North America
+2016,Hungary,1,87,5302000.0,Europe
+2016,India,1025,91,14570000.0,Asia
+2016,Indonesia,19,88,11519000.0,Asia
+2016,Iran,10,94,4942000.0,Asia
+2016,Ireland,15,93,10100000.0,Europe
+2016,Israel,50,97,2900000.0,Asia
+2016,Italy,11,98,52372000.0,Europe
+2016,Japan,1,101,24040000.0,Asia
+2016,Jordan,9,100,3567000.0,Asia
+2016,Kenya,65,103,1268000.0,Africa
+2016,Lebanon,41,111,1688000.0,Asia
+2016,Madagascar,1,126,293.0,Africa
+2016,Malaysia,19,141,26757000.0,Asia
+2016,Maldives,1,127,1286000.0,Asia
+2016,Mali,99,131,1732.0,Africa
+2016,Mexico,5,128,35079000.0,North America
+2016,Myanmar,74,133,2907000.0,Asia
+2016,Nepal,43,149,753.0,Asia
+2016,Netherlands,6,147,15828000.0,Europe
+2016,Niger,25,144,152.0,Africa
+2016,Panama,1,155,1921000.0,North America
+2016,Paraguay,15,164,1308000.0,South America
+2016,Peru,3,156,3744000.0,South America
+2016,Philippines,632,157,5967000.0,Asia
+2016,Poland,2,160,17471000.0,Europe
+2016,Russia,55,170,24571000.0,Europe
+2016,Slovak Republic,1,187,2027000.0,Europe
+2016,South Africa,27,221,10044000.0,Africa
+2016,South Korea,1,108,17242000.0,Asia
+2016,Spain,3,60,75315000.0,Europe
+2016,Sri Lanka,1,116,2051000.0,Asia
+2016,Sudan,173,174,800.0,Africa
+2016,Sweden,16,189,6782000.0,Europe
+2016,Tanzania,3,206,1233000.0,Africa
+2016,Thailand,329,197,32530000.0,Asia
+2016,Tunisia,12,203,5724000.0,Africa
+2016,Turkey,542,204,30289000.0,Asia
+2016,Uganda,15,207,1323000.0,Africa
+2016,Ukraine,61,208,13333000.0,Europe
+2016,United Kingdom,105,69,35814000.0,Europe
+2016,United States,64,210,76407000.0,North America
+2016,Uruguay,1,209,3037000.0,South America
+2016,Venezuela,6,213,601.0,South America
+2017,Albania,1,4,4643000.0,Europe
+2017,Algeria,14,56,2451000.0,Africa
+2017,Angola,6,3,261.0,Africa
+2017,Argentina,3,7,6720000.0,South America
+2017,Australia,4,11,8815000.0,Oceania
+2017,Austria,1,12,29460000.0,Europe
+2017,Bahrain,21,20,11370000.0,Asia
+2017,Belgium,3,15,8385000.0,Europe
+2017,Brazil,2,27,6589000.0,South America
+2017,Burkina Faso,32,17,143.0,Africa
+2017,Burundi,21,14,299.0,Africa
+2017,Canada,12,32,20798000.0,North America
+2017,Chile,12,35,6450000.0,South America
+2017,China,6,36,60740000.0,Asia
+2017,Colombia,117,41,4113000.0,South America
+2017,Czech Republic,3,50,10160000.0,Europe
+2017,Dominican Republic,1,55,6188000.0,North America
+2017,Ecuador,3,57,1608000.0,South America
+2017,Egypt,224,58,8157000.0,Africa
+2017,Ethiopia,27,62,933.0,Africa
+2017,Finland,2,63,3180000.0,Europe
+2017,France,41,65,86861000.0,Europe
+2017,Georgia,1,70,6483000.0,Asia
+2017,Germany,27,51,37452000.0,Europe
+2017,Greece,43,77,27194000.0,Europe
+2017,Honduras,1,84,851.0,North America
+2017,India,966,91,15543000.0,Asia
+2017,Indonesia,27,88,14040000.0,Asia
+2017,Iran,11,94,4867000.0,Asia
+2017,Ireland,17,93,10338000.0,Europe
+2017,Israel,32,97,3613000.0,Asia
+2017,Italy,8,98,58253000.0,Europe
+2017,Jamaica,2,99,2353000.0,North America
+2017,Jordan,8,100,3843500.0,Asia
+2017,Kenya,97,103,1364000.0,Africa
+2017,Latvia,1,120,1949000.0,Europe
+2017,Lebanon,23,111,1857000.0,Asia
+2017,Malawi,1,140,837.0,Africa
+2017,Malaysia,4,141,25948000.0,Asia
+2017,Maldives,2,127,1390000.0,Asia
+2017,Mali,141,131,1933.0,Africa
+2017,Malta,3,132,2274000.0,Europe
+2017,Mexico,20,128,39291000.0,North America
+2017,Myanmar,115,133,3443000.0,Asia
+2017,Nepal,247,149,940.0,Asia
+2017,Netherlands,1,147,17924000.0,Europe
+2017,Niger,13,144,164.0,Africa
+2017,Norway,1,148,6252000.0,Europe
+2017,Paraguay,10,164,1584000.0,South America
+2017,Peru,8,156,4032000.0,South America
+2017,Philippines,692,157,6621000.0,Asia
+2017,Poland,1,160,18258000.0,Europe
+2017,Russia,33,170,24390000.0,Europe
+2017,South Africa,29,221,10285000.0,Africa
+2017,Spain,4,60,81786000.0,Europe
+2017,Sri Lanka,41,116,2116400.0,Asia
+2017,Sudan,106,174,813.0,Africa
+2017,Sweden,18,189,7054000.0,Europe
+2017,Tanzania,6,206,1275000.0,Africa
+2017,Thailand,179,197,35592000.0,Asia
+2017,Tunisia,4,203,7052000.0,Africa
+2017,Turkey,181,204,37601000.0,Asia
+2017,Uganda,13,207,1402000.0,Africa
+2017,Ukraine,61,208,14230000.0,Europe
+2017,United Kingdom,122,69,37651000.0,Europe
+2017,United States,65,210,76941000.0,North America
+2017,Venezuela,17,213,427.0,South America
+2017,Vietnam,2,216,12922000.0,Asia
+2017,Zambia,2,222,1083000.0,Africa
+2017,Zimbabwe,3,223,2423000.0,Africa
