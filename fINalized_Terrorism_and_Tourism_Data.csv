@@ -1,0 +1,1414 @@
+iyear,country_txt,terrorism_count,Country Name,region,Tourism Count,Continent
+1995,Algeria,185,Algeria,56,520,Africa
+1995,Angola,10,Angola,3,9,Africa
+1995,Argentina,16,Argentina,7,"2,289,000",South America
+1995,Armenia,1,Armenia,8,12,Asia
+1995,Australia,5,Australia,11,"3,726,000",Oceania
+1995,Austria,12,Austria,12,"17,173,000",Europe
+1995,Bahrain,8,Bahrain,20,"2,311,000",Asia
+1995,Belgium,1,Belgium,15,"5,560,000",Europe
+1995,Benin,1,Benin,16,138,Africa
+1995,Bolivia,2,Bolivia,26,284,South America
+1995,Brazil,23,Brazil,27,"1,991,000",South America
+1995,Bulgaria,2,Bulgaria,19,"3,466,000",Europe
+1995,Burundi,83,Burundi,14,34,Africa
+1995,Cambodia,56,Cambodia,105,220,Asia
+1995,Canada,5,Canada,32,"16,932,000",North America
+1995,Chile,17,Chile,35,"1,540,000",South America
+1995,China,8,China,36,"20,034,000",Asia
+1995,Colombia,123,Colombia,41,"1,399,000",South America
+1995,Croatia,1,Croatia,85,"1,485,000",Europe
+1995,Cyprus,3,Cyprus,49,"2,100,000",Europe
+1995,Czech Republic,3,Czech Republic,50,"3,381,000",Europe
+1995,Ecuador,6,Ecuador,57,440,South America
+1995,Egypt,102,Egypt,58,"2,871,000",Africa
+1995,El Salvador,9,El Salvador,179,235,North America
+1995,Estonia,2,Estonia,61,530,Europe
+1995,Ethiopia,5,Ethiopia,62,103,Africa
+1995,Finland,1,Finland,63,"1,779,000",Europe
+1995,France,71,France,65,"60,033,000",Europe
+1995,French Polynesia,3,French Polynesia,167,172,Oceania
+1995,Georgia,17,Georgia,70,85,Asia
+1995,Germany,147,Germany,51,"14,847,000",Europe
+1995,Greece,8,Greece,77,"10,130,000",Europe
+1995,Guatemala,82,Guatemala,80,563,North America
+1995,Haiti,34,Haiti,86,145,North America
+1995,Honduras,12,Honduras,84,271,North America
+1995,India,179,India,91,"2,124,000",Asia
+1995,Indonesia,24,Indonesia,88,"4,324,000",Asia
+1995,Iran,8,Iran,94,568,Asia
+1995,Ireland,3,Ireland,93,"4,818,000",Europe
+1995,Israel,13,Israel,97,"2,215,000",Asia
+1995,Italy,1,Italy,98,"31,052,000",Europe
+1995,Jamaica,1,Jamaica,99,"1,147,000",North America
+1995,Japan,20,Japan,101,"3,345,000",Asia
+1995,Jordan,3,Jordan,100,"1,075,000",Asia
+1995,Kenya,4,Kenya,103,918,Africa
+1995,Latvia,1,Latvia,120,539,Europe
+1995,Lebanon,38,Lebanon,111,450,Asia
+1995,Lithuania,2,Lithuania,118,650,Europe
+1995,Madagascar,3,Madagascar,126,75,Africa
+1995,Mali,1,Mali,131,42,Africa
+1995,Malta,2,Malta,132,"1,116,000",Europe
+1995,Mexico,29,Mexico,128,"20,241,000",North America
+1995,Morocco,1,Morocco,123,"2,602,000",Africa
+1995,Myanmar,12,Myanmar,133,194,Asia
+1995,Netherlands,7,Netherlands,147,"6,574,000",Europe
+1995,Nicaragua,18,Nicaragua,146,281,North America
+1995,Niger,2,Niger,144,35,Africa
+1995,Panama,6,Panama,155,345,North America
+1995,Paraguay,12,Paraguay,164,438,South America
+1995,Peru,44,Peru,156,479,South America
+1995,Philippines,63,Philippines,157,"1,760,000",Asia
+1995,Poland,4,Poland,160,"19,215,000",Europe
+1995,Portugal,3,Portugal,163,"4,572,000",Europe
+1995,Romania,1,Romania,169,"5,445,000",Europe
+1995,Russia,37,Russia,170,"10,290,000",Europe
+1995,Senegal,8,Senegal,175,280,Africa
+1995,Slovak Republic,3,Slovak Republic,187,903,Europe
+1995,South Africa,32,South Africa,221,"4,488,000",Africa
+1995,South Korea,4,South Korea,108,"3,753,000",Asia
+1995,Spain,44,Spain,60,"32,971,000",Europe
+1995,Sri Lanka,126,Sri Lanka,116,403,Asia
+1995,Sudan,4,Sudan,174,29,Africa
+1995,Sweden,1,Sweden,189,"2,310,000",Europe
+1995,Tanzania,1,Tanzania,206,285,Africa
+1995,Thailand,12,Thailand,197,"6,952,000",Asia
+1995,Togo,1,Togo,196,53,Africa
+1995,Trinidad and Tobago,4,Trinidad and Tobago,202,260,North America
+1995,Tunisia,1,Tunisia,203,"4,120,000",Africa
+1995,Turkey,133,Turkey,204,"7,083,000",Asia
+1995,Uganda,7,Uganda,207,160,Africa
+1995,Ukraine,2,Ukraine,208,"3,716,000",Europe
+1995,United Kingdom,22,United Kingdom,69,"21,719,000",Europe
+1995,United States,60,United States,210,"43,318,000",North America
+1995,Uruguay,1,Uruguay,209,"2,022,000",South America
+1995,Venezuela,11,Venezuela,213,700,South America
+1995,Vietnam,1,Vietnam,216,"1,351,000",Asia
+1995,Zambia,1,Zambia,222,163,Africa
+1995,Zimbabwe,2,Zimbabwe,223,"1,416,000",Africa
+1996,Albania,6,Albania,4,287,Europe
+1996,Algeria,129,Algeria,56,605,Africa
+1996,Angola,4,Angola,3,21,Africa
+1996,Argentina,19,Argentina,7,"2,614,000",South America
+1996,Armenia,1,Armenia,8,13,Asia
+1996,Australia,5,Australia,11,"4,165,000",Oceania
+1996,Austria,4,Austria,12,"17,090,000",Europe
+1996,Bahrain,16,Bahrain,20,"1,988,000",Asia
+1996,Benin,2,Benin,16,143,Africa
+1996,Bolivia,1,Bolivia,26,313,South America
+1996,Brazil,18,Brazil,27,"2,666,000",South America
+1996,Bulgaria,12,Bulgaria,19,"2,795,000",Europe
+1996,Burundi,35,Burundi,14,27,Africa
+1996,Cambodia,33,Cambodia,105,260,Asia
+1996,Canada,1,Canada,32,"17,286,000",North America
+1996,Chile,8,Chile,35,"1,450,000",South America
+1996,China,62,China,36,"22,765,000",Asia
+1996,Colombia,409,Colombia,41,631,South America
+1996,Costa Rica,1,Costa Rica,44,781,North America
+1996,Croatia,3,Croatia,85,"2,914,000",Europe
+1996,Cuba,1,Cuba,46,999,North America
+1996,Cyprus,10,Cyprus,49,"1,950,000",Europe
+1996,Czech Republic,3,Czech Republic,50,"4,558,000",Europe
+1996,Dominican Republic,3,Dominican Republic,55,"1,926,000",North America
+1996,Ecuador,5,Ecuador,57,494,South America
+1996,Egypt,51,Egypt,58,"3,528,000",Africa
+1996,El Salvador,7,El Salvador,179,283,North America
+1996,Estonia,1,Estonia,61,665,Europe
+1996,Ethiopia,7,Ethiopia,62,109,Africa
+1996,France,270,France,65,"62,406,000",Europe
+1996,Georgia,3,Georgia,70,117,Asia
+1996,Germany,52,Germany,51,"15,205,000",Europe
+1996,Greece,20,Greece,77,"9,233,000",Europe
+1996,Guatemala,26,Guatemala,80,520,North America
+1996,Haiti,27,Haiti,86,150,North America
+1996,Honduras,19,Honduras,84,263,North America
+1996,Hungary,13,Hungary,87,"2,979,000",Europe
+1996,India,213,India,91,"2,288,000",Asia
+1996,Indonesia,65,Indonesia,88,"5,034,000",Asia
+1996,Iran,3,Iran,94,693,Asia
+1996,Ireland,1,Ireland,93,"5,289,000",Europe
+1996,Israel,19,Israel,97,"2,100,000",Asia
+1996,Italy,8,Italy,98,"32,943,000",Europe
+1996,Jamaica,1,Jamaica,99,"1,162,000",North America
+1996,Japan,8,Japan,101,"3,837,000",Asia
+1996,Jordan,2,Jordan,100,"1,106,000",Asia
+1996,Kenya,3,Kenya,103,947,Africa
+1996,Lebanon,39,Lebanon,111,424,Asia
+1996,Lithuania,3,Lithuania,118,832,Europe
+1996,Madagascar,2,Madagascar,126,83,Africa
+1996,Mexico,75,Mexico,128,"21,395,000",North America
+1996,Morocco,2,Morocco,123,"2,693,000",Africa
+1996,Myanmar,13,Myanmar,133,490,Asia
+1996,Nepal,5,Nepal,149,394,Asia
+1996,Netherlands,6,Netherlands,147,"6,580,000",Europe
+1996,Nicaragua,26,Nicaragua,146,303,North America
+1996,Niger,1,Niger,144,68,Africa
+1996,Norway,1,Norway,148,"2,746,000",Europe
+1996,Panama,2,Panama,155,362,North America
+1996,Peru,42,Peru,156,584,South America
+1996,Philippines,61,Philippines,157,"2,049,000",Asia
+1996,Poland,6,Poland,160,"19,410,000",Europe
+1996,Qatar,1,Qatar,168,327,Asia
+1996,Russia,66,Russia,170,"16,208,000",Europe
+1996,Slovak Republic,5,Slovak Republic,187,951,Europe
+1996,Slovenia,3,Slovenia,188,832,Europe
+1996,South Africa,47,South Africa,221,"4,915,000",Africa
+1996,South Korea,1,South Korea,108,"3,684,000",Asia
+1996,Spain,63,Spain,60,"34,027,000",Europe
+1996,Sri Lanka,176,Sri Lanka,116,302,Asia
+1996,Sudan,10,Sudan,174,38,Africa
+1996,Sweden,1,Sweden,189,"2,376,000",Europe
+1996,Thailand,19,Thailand,197,"7,244,000",Asia
+1996,Togo,1,Togo,196,58,Africa
+1996,Trinidad and Tobago,3,Trinidad and Tobago,202,266,North America
+1996,Turkey,54,Turkey,204,"7,966,000",Asia
+1996,Uganda,29,Uganda,207,174,Africa
+1996,Ukraine,3,Ukraine,208,"3,854,000",Europe
+1996,United Kingdom,36,United Kingdom,69,"22,936,000",Europe
+1996,United States,35,United States,210,"46,489,000",North America
+1996,Uruguay,1,Uruguay,209,"2,152,000",South America
+1996,Vanuatu,2,Vanuatu,217,46,Oceania
+1996,Venezuela,12,Venezuela,213,759,South America
+1996,Vietnam,1,Vietnam,216,"1,607,000",Asia
+1996,Zambia,4,Zambia,222,264,Africa
+1997,Albania,41,Albania,4,119,Europe
+1997,Algeria,344,Algeria,56,635,Africa
+1997,Angola,7,Angola,3,45,Africa
+1997,Argentina,11,Argentina,7,"2,764,000",South America
+1997,Australia,4,Australia,11,"4,318,000",Oceania
+1997,Austria,1,Austria,12,"16,647,000",Europe
+1997,Bahrain,11,Bahrain,20,"2,600,000",Asia
+1997,Belarus,2,Belarus,23,"253,5",Europe
+1997,Belgium,2,Belgium,15,"6,037,000",Europe
+1997,Bolivia,4,Bolivia,26,355,South America
+1997,Brazil,39,Brazil,27,"2,850,000",South America
+1997,Bulgaria,3,Bulgaria,19,"2,980,000",Europe
+1997,Burundi,79,Burundi,14,11,Africa
+1997,Cambodia,18,Cambodia,105,219,Asia
+1997,Canada,2,Canada,32,"17,669,000",North America
+1997,Chile,6,Chile,35,"1,644,000",South America
+1997,China,18,China,36,"23,770,000",Asia
+1997,Colombia,598,Colombia,41,639,South America
+1997,Comoros,3,Comoros,42,26,Africa
+1997,Costa Rica,1,Costa Rica,44,811,North America
+1997,Croatia,8,Croatia,85,"4,178,000",Europe
+1997,Cuba,14,Cuba,46,"1,153,000",North America
+1997,Czech Republic,4,Czech Republic,50,"4,976,000",Europe
+1997,Dominica,1,Dominica,53,65,North America
+1997,Dominican Republic,12,Dominican Republic,55,"2,211,000",North America
+1997,Ecuador,4,Ecuador,57,529,South America
+1997,Egypt,22,Egypt,58,"3,656,000",Africa
+1997,El Salvador,2,El Salvador,179,387,North America
+1997,Ethiopia,6,Ethiopia,62,139,Africa
+1997,France,130,France,65,"66,591,000",Europe
+1997,Georgia,6,Georgia,70,313,Asia
+1997,Germany,12,Germany,51,"15,837,000",Europe
+1997,Greece,21,Greece,77,"10,070,000",Europe
+1997,Guatemala,26,Guatemala,80,576,North America
+1997,Guyana,1,Guyana,82,76,South America
+1997,Haiti,16,Haiti,86,149,North America
+1997,Honduras,22,Honduras,84,307,North America
+1997,Hungary,17,Hungary,87,"2,887,000",Europe
+1997,India,193,India,91,"2,374,000",Asia
+1997,Indonesia,27,Indonesia,88,"5,185,000",Asia
+1997,Ireland,4,Ireland,93,"5,587,000",Europe
+1997,Israel,13,Israel,97,"2,010,000",Asia
+1997,Italy,8,Italy,98,"34,692,000",Europe
+1997,Jamaica,8,Jamaica,99,"1,192,000",North America
+1997,Japan,5,Japan,101,"4,218,000",Asia
+1997,Jordan,3,Jordan,100,"1,132,000",Asia
+1997,Kenya,17,Kenya,103,928,Africa
+1997,Latvia,2,Latvia,120,635,Europe
+1997,Lebanon,46,Lebanon,111,558,Asia
+1997,Lithuania,1,Lithuania,118,"1,012,000",Europe
+1997,Madagascar,1,Madagascar,126,101,Africa
+1997,Mali,3,Mali,131,75,Africa
+1997,Malta,1,Malta,132,"1,111,000",Europe
+1997,Mexico,95,Mexico,128,"19,351,000",North America
+1997,Myanmar,35,Myanmar,133,491,Asia
+1997,Nepal,9,Nepal,149,422,Asia
+1997,Netherlands,1,Netherlands,147,"7,841,000",Europe
+1997,Nicaragua,7,Nicaragua,146,358,North America
+1997,Niger,3,Niger,144,68,Africa
+1997,Panama,6,Panama,155,421,North America
+1997,Paraguay,6,Paraguay,164,395,South America
+1997,Peru,58,Peru,156,649,South America
+1997,Philippines,57,Philippines,157,"2,223,000",Asia
+1997,Poland,3,Poland,160,"19,520,000",Europe
+1997,Russia,77,Russia,170,"17,463,000",Europe
+1997,Senegal,26,Senegal,175,314,Africa
+1997,Slovak Republic,4,Slovak Republic,187,814,Europe
+1997,Slovenia,1,Slovenia,188,974,Europe
+1997,South Africa,17,South Africa,221,"4,976,000",Africa
+1997,Spain,86,Spain,60,"39,553,000",Europe
+1997,Sri Lanka,64,Sri Lanka,116,366,Asia
+1997,Sudan,3,Sudan,174,30,Africa
+1997,Suriname,2,Suriname,186,61,South America
+1997,Sweden,4,Sweden,189,"2,388,000",Europe
+1997,Tanzania,1,Tanzania,206,347,Africa
+1997,Thailand,20,Thailand,197,"7,294,000",Asia
+1997,Turkey,44,Turkey,204,"9,040,000",Asia
+1997,Uganda,24,Uganda,207,175,Africa
+1997,Ukraine,2,Ukraine,208,"7,558,000",Europe
+1997,United Kingdom,78,United Kingdom,69,"23,215,000",Europe
+1997,United States,40,United States,210,"47,767,000",North America
+1997,Uruguay,2,Uruguay,209,"2,316,000",South America
+1997,Venezuela,41,Venezuela,213,814,South America
+1997,Vietnam,2,Vietnam,216,"1,716,000",Asia
+1998,Albania,7,Albania,4,184,Europe
+1998,Algeria,151,Algeria,56,678,Africa
+1998,Angola,20,Angola,3,52,Africa
+1998,Armenia,2,Armenia,8,32,Asia
+1998,Australia,6,Australia,11,"4,167,000",Oceania
+1998,Austria,1,Austria,12,"17,352,000",Europe
+1998,Belgium,3,Belgium,15,"6,179,000",Europe
+1998,Brazil,2,Brazil,27,"4,818,000",South America
+1998,Bulgaria,2,Bulgaria,19,"2,667,000",Europe
+1998,Burundi,13,Burundi,14,15,Africa
+1998,Cambodia,7,Cambodia,105,287,Asia
+1998,Canada,4,Canada,32,"18,870,000",North America
+1998,Chile,1,Chile,35,"1,759,000",South America
+1998,China,2,China,36,"25,073,000",Asia
+1998,Colombia,94,Colombia,41,674,South America
+1998,Cyprus,1,Cyprus,49,"2,223,000",Europe
+1998,Ecuador,3,Ecuador,57,511,South America
+1998,Egypt,3,Egypt,58,"3,213,000",Africa
+1998,France,12,France,65,"70,109,000",Europe
+1998,Georgia,12,Georgia,70,317,Asia
+1998,Germany,6,Germany,51,"16,511,000",Europe
+1998,Greece,28,Greece,77,"10,916,000",Europe
+1998,Guyana,2,Guyana,82,66,South America
+1998,Haiti,1,Haiti,86,147,North America
+1998,Hungary,2,Hungary,87,"2,871,000",Europe
+1998,India,61,India,91,"2,359,000",Asia
+1998,Indonesia,3,Indonesia,88,"4,606,000",Asia
+1998,Iran,5,Iran,94,"1,124,000",Asia
+1998,Ireland,3,Ireland,93,"6,064,000",Europe
+1998,Israel,14,Israel,97,"1,942,000",Asia
+1998,Italy,6,Italy,98,"34,933,000",Europe
+1998,Japan,1,Japan,101,"4,106,000",Asia
+1998,Jordan,1,Jordan,100,"1,772,000",Asia
+1998,Kenya,2,Kenya,103,792,Africa
+1998,Latvia,4,Latvia,120,576,Europe
+1998,Lebanon,23,Lebanon,111,631,Asia
+1998,Mexico,2,Mexico,128,"19,392,000",North America
+1998,Peru,5,Peru,156,726,South America
+1998,Philippines,18,Philippines,157,"2,149,000",Asia
+1998,Poland,2,Poland,160,"18,780,000",Europe
+1998,Russia,26,Russia,170,"16,188,000",Europe
+1998,Senegal,1,Senegal,175,352,Africa
+1998,Slovak Republic,2,Slovak Republic,187,896,Europe
+1998,South Africa,6,South Africa,221,"5,732,000",Africa
+1998,Spain,17,Spain,60,"41,892,000",Europe
+1998,Sri Lanka,35,Sri Lanka,116,381,Asia
+1998,Tanzania,1,Tanzania,206,450,Africa
+1998,Thailand,4,Thailand,197,"7,843,000",Asia
+1998,Turkey,23,Turkey,204,"8,960,000",Asia
+1998,Uganda,18,Uganda,207,195,Africa
+1998,United Kingdom,63,United Kingdom,69,"23,710,000",Europe
+1998,United States,31,United States,210,"46,377,000",North America
+1998,Venezuela,1,Venezuela,213,685,South America
+1999,Albania,3,Albania,4,371,Europe
+1999,Algeria,106,Algeria,56,749,Africa
+1999,Angola,34,Angola,3,45,Africa
+1999,Argentina,1,Argentina,7,"2,898,000",South America
+1999,Armenia,2,Armenia,8,41,Asia
+1999,Belarus,1,Belarus,23,"74,9",Europe
+1999,Belgium,2,Belgium,15,"6,369,000",Europe
+1999,Brazil,1,Brazil,27,"5,107,000",South America
+1999,Bulgaria,1,Bulgaria,19,"2,472,000",Europe
+1999,Burundi,13,Burundi,14,26,Africa
+1999,Cambodia,8,Cambodia,105,368,Asia
+1999,Canada,2,Canada,32,"19,411,000",North America
+1999,Chile,3,Chile,35,"1,632,000",South America
+1999,China,2,China,36,"27,047,000",Asia
+1999,Colombia,116,Colombia,41,546,South America
+1999,Cyprus,1,Cyprus,49,"2,434,000",Europe
+1999,Ecuador,2,Ecuador,57,518,South America
+1999,Egypt,1,Egypt,58,"4,490,000",Africa
+1999,Estonia,1,Estonia,61,950,Europe
+1999,Ethiopia,2,Ethiopia,62,115,Africa
+1999,Fiji,3,Fiji,64,410,Oceania
+1999,France,46,France,65,"73,147,000",Europe
+1999,Georgia,7,Georgia,70,384,Asia
+1999,Germany,13,Germany,51,"17,116,000",Europe
+1999,Greece,35,Greece,77,"12,164,000",Europe
+1999,Guatemala,1,Guatemala,80,823,North America
+1999,Haiti,5,Haiti,86,143,North America
+1999,India,112,India,91,"2,482,000",Asia
+1999,Indonesia,60,Indonesia,88,"4,728,000",Asia
+1999,Iran,8,Iran,94,"1,321,000",Asia
+1999,Ireland,3,Ireland,93,"6,403,000",Europe
+1999,Israel,8,Israel,97,"2,312,000",Asia
+1999,Italy,7,Italy,98,"36,516,000",Europe
+1999,Japan,2,Japan,101,"4,438,000",Asia
+1999,Jordan,2,Jordan,100,"1,790,000",Asia
+1999,Latvia,1,Latvia,120,544,Europe
+1999,Lebanon,42,Lebanon,111,673,Asia
+1999,Mexico,1,Mexico,128,"19,043,000",North America
+1999,Myanmar,4,Myanmar,133,435,Asia
+1999,Namibia,1,Namibia,142,635,Africa
+1999,Nepal,8,Nepal,149,492,Asia
+1999,Netherlands,1,Netherlands,147,"9,874,000",Europe
+1999,Nicaragua,1,Nicaragua,146,468,North America
+1999,Niger,2,Niger,144,39,Africa
+1999,Panama,1,Panama,155,457,North America
+1999,Paraguay,1,Paraguay,164,269,South America
+1999,Peru,5,Peru,156,694,South America
+1999,Philippines,31,Philippines,157,"2,171,000",Asia
+1999,Russia,54,Russia,170,"18,820,000",Europe
+1999,Senegal,1,Senegal,175,369,Africa
+1999,Slovak Republic,1,Slovak Republic,187,975,Europe
+1999,South Africa,17,South Africa,221,"5,890,000",Africa
+1999,Spain,47,Spain,60,"45,440,000",Europe
+1999,Sri Lanka,46,Sri Lanka,116,436,Asia
+1999,Sudan,5,Sudan,174,39,Africa
+1999,Sweden,2,Sweden,189,"2,595,000",Europe
+1999,Thailand,4,Thailand,197,"8,651,000",Asia
+1999,Turkey,109,Turkey,204,"6,893,000",Asia
+1999,Uganda,19,Uganda,207,189,Africa
+1999,Ukraine,6,Ukraine,208,"4,232,000",Europe
+1999,United Kingdom,76,United Kingdom,69,"23,341,000",Europe
+1999,United States,53,United States,210,"48,509,000",North America
+1999,Venezuela,5,Venezuela,213,587,South America
+1999,Zambia,7,Zambia,222,404,Africa
+2000,Albania,2,Albania,4,317,Europe
+2000,Algeria,138,Algeria,56,866,Africa
+2000,Angola,22,Angola,3,51,Africa
+2000,Armenia,2,Armenia,8,45,Asia
+2000,Australia,1,Australia,11,"4,931,000",Oceania
+2000,Belize,1,Belize,24,196,North America
+2000,Brazil,2,Brazil,27,"5,313,000",South America
+2000,Bulgaria,2,Bulgaria,19,"2,785,000",Europe
+2000,Burundi,17,Burundi,14,29,Africa
+2000,Cambodia,4,Cambodia,105,466,Asia
+2000,Canada,5,Canada,32,"19,627,000",North America
+2000,Chile,2,Chile,35,"1,742,000",South America
+2000,China,4,China,36,"31,229,000",Asia
+2000,Colombia,137,Colombia,41,557,South America
+2000,Croatia,2,Croatia,85,"5,831,000",Europe
+2000,Cyprus,2,Cyprus,49,"2,686,000",Europe
+2000,Ecuador,4,Ecuador,57,627,South America
+2000,Ethiopia,1,Ethiopia,62,136,Africa
+2000,Fiji,4,Fiji,64,294,Oceania
+2000,France,28,France,65,"77,190,000",Europe
+2000,Georgia,7,Georgia,70,387,Asia
+2000,Germany,8,Germany,51,"18,983,000",Europe
+2000,Greece,28,Greece,77,"13,096,000",Europe
+2000,Guatemala,1,Guatemala,80,826,North America
+2000,Haiti,9,Haiti,86,140,North America
+2000,India,180,India,91,"2,649,000",Asia
+2000,Indonesia,101,Indonesia,88,"5,064,000",Asia
+2000,Iran,15,Iran,94,"1,342,000",Asia
+2000,Israel,15,Israel,97,"2,417,000",Asia
+2000,Italy,8,Italy,98,"41,181,000",Europe
+2000,Japan,13,Japan,101,"4,757,000",Asia
+2000,Jordan,2,Jordan,100,"1,580,000",Asia
+2000,Kenya,4,Kenya,103,899,Africa
+2000,Latvia,3,Latvia,120,509,Europe
+2000,Lebanon,12,Lebanon,111,742,Asia
+2000,Malaysia,3,Malaysia,141,"10,222,000",Asia
+2000,Mexico,4,Mexico,128,"20,641,000",North America
+2000,Namibia,21,Namibia,142,656,Africa
+2000,Nepal,23,Nepal,149,464,Asia
+2000,Netherlands,1,Netherlands,147,"10,003,000",Europe
+2000,Nicaragua,1,Nicaragua,146,486,North America
+2000,Panama,1,Panama,155,484,North America
+2000,Paraguay,2,Paraguay,164,289,South America
+2000,Peru,3,Peru,156,800,South America
+2000,Philippines,132,Philippines,157,"1,992,000",Asia
+2000,Qatar,1,Qatar,168,378,Asia
+2000,Russia,138,Russia,170,"21,169,000",Europe
+2000,Senegal,4,Senegal,175,389,Africa
+2000,Slovak Republic,1,Slovak Republic,187,"1,053,000",Europe
+2000,Slovenia,1,Slovenia,188,"1,090,000",Europe
+2000,South Africa,21,South Africa,221,"5,872,000",Africa
+2000,Spain,112,Spain,60,"46,403,000",Europe
+2000,Sri Lanka,68,Sri Lanka,116,400,Asia
+2000,St. Lucia,1,St. Lucia,114,270,North America
+2000,Sudan,7,Sudan,174,38,Africa
+2000,Sweden,1,Sweden,189,"3,828,000",Europe
+2000,Tanzania,2,Tanzania,206,459,Africa
+2000,Thailand,4,Thailand,197,"9,579,000",Asia
+2000,Tunisia,1,Tunisia,203,"5,058,000",Africa
+2000,Turkey,35,Turkey,204,"9,586,000",Asia
+2000,Uganda,20,Uganda,207,193,Africa
+2000,Ukraine,1,Ukraine,208,"6,431,000",Europe
+2000,United Kingdom,61,United Kingdom,69,"23,212,000",Europe
+2000,United States,32,United States,210,"51,238,000",North America
+2000,Zambia,8,Zambia,222,457,Africa
+2000,Zimbabwe,1,Zimbabwe,223,"1,967,000",Africa
+2001,Albania,1,Albania,4,354,Europe
+2001,Algeria,113,Algeria,56,901,Africa
+2001,Angola,40,Angola,3,67,Africa
+2001,Argentina,2,Argentina,7,"2,620,000",South America
+2001,Armenia,2,Armenia,8,123,Asia
+2001,Australia,2,Australia,11,"4,856,000",Oceania
+2001,Belarus,1,Belarus,23,61,Europe
+2001,Brazil,3,Brazil,27,"4,773,000",South America
+2001,Bulgaria,1,Bulgaria,19,"3,186,000",Europe
+2001,Burundi,37,Burundi,14,36,Africa
+2001,Cambodia,7,Cambodia,105,605,Asia
+2001,Chile,3,Chile,35,"1,723,000",South America
+2001,China,12,China,36,"33,167,000",Asia
+2001,Colombia,207,Colombia,41,616,South America
+2001,Costa Rica,1,Costa Rica,44,"1,131,000",North America
+2001,Croatia,3,Croatia,85,"6,544,000",Europe
+2001,Cyprus,1,Cyprus,49,"2,697,000",Europe
+2001,Czech Republic,1,Czech Republic,50,"5,405,000",Europe
+2001,Ecuador,5,Ecuador,57,641,South America
+2001,Estonia,1,Estonia,61,"1,320,000",Europe
+2001,Fiji,1,Fiji,64,348,Oceania
+2001,France,21,France,65,"75,202,000",Europe
+2001,Georgia,4,Georgia,70,302,Asia
+2001,Germany,8,Germany,51,"17,861,000",Europe
+2001,Greece,14,Greece,77,"14,057,000",Europe
+2001,Guatemala,2,Guatemala,80,835,North America
+2001,Guyana,1,Guyana,82,99,South America
+2001,Haiti,5,Haiti,86,142,North America
+2001,Hungary,1,Hungary,87,"3,070,000",Europe
+2001,India,234,India,91,"2,537,000",Asia
+2001,Indonesia,105,Indonesia,88,"5,153,000",Asia
+2001,Iran,4,Iran,94,"1,402,000",Asia
+2001,Ireland,2,Ireland,93,"6,353,000",Europe
+2001,Israel,79,Israel,97,"1,196,000",Asia
+2001,Italy,11,Italy,98,"39,563,000",Europe
+2001,Japan,3,Japan,101,"4,772,000",Asia
+2001,Jordan,2,Jordan,100,"1,672,000",Asia
+2001,Kenya,7,Kenya,103,841,Africa
+2001,Lebanon,5,Lebanon,111,837,Asia
+2001,Malaysia,1,Malaysia,141,"12,775,000",Asia
+2001,Mexico,7,Mexico,128,"19,810,000",North America
+2001,Myanmar,3,Myanmar,133,475,Asia
+2001,Namibia,6,Namibia,142,670,Africa
+2001,Nepal,33,Nepal,149,361,Asia
+2001,Netherlands,1,Netherlands,147,"9,500,000",Europe
+2001,Norway,1,Norway,148,"3,073,000",Europe
+2001,Peru,3,Peru,156,901,South America
+2001,Philippines,50,Philippines,157,"1,797,000",Asia
+2001,Poland,1,Poland,160,"15,000,000",Europe
+2001,Qatar,1,Qatar,168,376,Asia
+2001,Russia,135,Russia,170,"21,595,000",Europe
+2001,Senegal,8,Senegal,175,396,Africa
+2001,South Korea,1,South Korea,108,"5,147,000",Asia
+2001,Spain,79,Spain,60,"48,565,000",Europe
+2001,Sri Lanka,36,Sri Lanka,116,337,Asia
+2001,Sudan,9,Sudan,174,50,Africa
+2001,Tanzania,4,Tanzania,206,501,Africa
+2001,Thailand,14,Thailand,197,"10,133,000",Asia
+2001,Tunisia,1,Tunisia,203,"5,387,000",Africa
+2001,Turkey,19,Turkey,204,"10,783,000",Asia
+2001,Uganda,24,Uganda,207,205,Africa
+2001,United Kingdom,94,United Kingdom,69,"20,982,000",Europe
+2001,United States,41,United States,210,"46,927,000",North America
+2001,Venezuela,5,Venezuela,213,584,South America
+2001,Vietnam,4,Vietnam,216,"2,330,000",Asia
+2001,Zimbabwe,3,Zimbabwe,223,"2,217,000",Africa
+2002,Algeria,132,Algeria,56,988,Africa
+2002,Angola,6,Angola,3,91,Africa
+2002,Belgium,3,Belgium,15,"6,720,000",Europe
+2002,Brazil,1,Brazil,27,"3,785,000",South America
+2002,Bulgaria,1,Bulgaria,19,"3,433,000",Europe
+2002,Burundi,18,Burundi,14,74,Africa
+2002,Cambodia,3,Cambodia,105,787,Asia
+2002,Chile,1,Chile,35,"1,412,000",South America
+2002,China,2,China,36,"36,803,000",Asia
+2002,Colombia,150,Colombia,41,567,South America
+2002,Ecuador,2,Ecuador,57,683,South America
+2002,Ethiopia,3,Ethiopia,62,156,Africa
+2002,France,32,France,65,"77,012,000",Europe
+2002,Georgia,2,Georgia,70,298,Asia
+2002,Germany,3,Germany,51,"17,969,000",Europe
+2002,Greece,11,Greece,77,"14,180,000",Europe
+2002,Guyana,1,Guyana,82,104,South America
+2002,Haiti,2,Haiti,86,140,North America
+2002,Honduras,1,Honduras,84,550,North America
+2002,India,184,India,91,"2,384,000",Asia
+2002,Indonesia,43,Indonesia,88,"5,033,000",Asia
+2002,Israel,75,Israel,97,"861,9",Asia
+2002,Italy,7,Italy,98,"39,799,000",Europe
+2002,Japan,2,Japan,101,"5,239,000",Asia
+2002,Jordan,2,Jordan,100,"2,384,000",Asia
+2002,Kenya,2,Kenya,103,838,Africa
+2002,Lebanon,8,Lebanon,111,956,Asia
+2002,Madagascar,5,Madagascar,126,62,Africa
+2002,Malawi,1,Malawi,140,383,Africa
+2002,Myanmar,4,Myanmar,133,487,Asia
+2002,Nepal,58,Nepal,149,275,Asia
+2002,Netherlands,2,Netherlands,147,"9,595,000",Europe
+2002,Peru,2,Peru,156,"1,064,000",South America
+2002,Philippines,48,Philippines,157,"1,933,000",Asia
+2002,Russia,89,Russia,170,"23,309,000",Europe
+2002,Senegal,3,Senegal,175,427,Africa
+2002,South Africa,8,South Africa,221,"6,430,000",Africa
+2002,Spain,41,Spain,60,"50,331,000",Europe
+2002,Sri Lanka,3,Sri Lanka,116,393,Asia
+2002,Sudan,13,Sudan,174,52,Africa
+2002,Tanzania,2,Tanzania,206,550,Africa
+2002,Thailand,12,Thailand,197,"10,873,000",Asia
+2002,Tunisia,1,Tunisia,203,"5,064,000",Africa
+2002,Turkey,5,Turkey,204,"12,790,000",Asia
+2002,Uganda,24,Uganda,207,254,Africa
+2002,Ukraine,3,Ukraine,208,"10,517,000",Europe
+2002,United Kingdom,21,United Kingdom,69,"22,307,000",Europe
+2002,United States,33,United States,210,"43,581,000",North America
+2002,Venezuela,5,Venezuela,213,432,South America
+2002,Zambia,1,Zambia,222,565,Africa
+2002,Zimbabwe,8,Zimbabwe,223,"2,041,000",Africa
+2003,Albania,1,Albania,4,557,Europe
+2003,Algeria,75,Algeria,56,"1,166,000",Africa
+2003,Argentina,1,Argentina,7,"2,995,000",South America
+2003,Bahrain,1,Bahrain,20,"4,844,000",Asia
+2003,Belgium,8,Belgium,15,"6,690,000",Europe
+2003,Bolivia,1,Bolivia,26,427,South America
+2003,Brazil,1,Brazil,27,"4,133,000",South America
+2003,Burundi,18,Burundi,14,74,Africa
+2003,Cambodia,1,Cambodia,105,701,Asia
+2003,Chile,2,Chile,35,"1,614,000",South America
+2003,China,3,China,36,"32,970,000",Asia
+2003,Colombia,98,Colombia,41,625,South America
+2003,Czech Republic,1,Czech Republic,50,"5,076,000",Europe
+2003,Ecuador,4,Ecuador,57,761,South America
+2003,Ethiopia,1,Ethiopia,62,180,Africa
+2003,France,34,France,65,"75,048,000",Europe
+2003,Georgia,6,Georgia,70,313,Asia
+2003,Germany,2,Germany,51,"18,399,000",Europe
+2003,Greece,12,Greece,77,"13,969,000",Europe
+2003,Guatemala,3,Guatemala,80,880,North America
+2003,Guyana,1,Guyana,82,101,South America
+2003,Haiti,5,Haiti,86,136,North America
+2003,India,196,India,91,"2,726,000",Asia
+2003,Indonesia,18,Indonesia,88,"4,467,000",Asia
+2003,Iran,2,Iran,94,"1,546,000",Asia
+2003,Ireland,1,Ireland,93,"6,764,000",Europe
+2003,Israel,38,Israel,97,"1,063,000",Asia
+2003,Italy,15,Italy,98,"39,604,000",Europe
+2003,Japan,2,Japan,101,"5,212,000",Asia
+2003,Kenya,2,Kenya,103,927,Africa
+2003,Lebanon,5,Lebanon,111,"1,016,000",Asia
+2003,Mexico,1,Mexico,128,"18,665,000",North America
+2003,Morocco,5,Morocco,123,"4,761,000",Africa
+2003,Myanmar,9,Myanmar,133,597,Asia
+2003,Nepal,15,Nepal,149,338,Asia
+2003,Netherlands,3,Netherlands,147,"9,181,000",Europe
+2003,Norway,1,Norway,148,"3,269,000",Europe
+2003,Peru,1,Peru,156,"1,136,000",South America
+2003,Philippines,107,Philippines,157,"1,907,000",Asia
+2003,Russia,76,Russia,170,"22,521,000",Europe
+2003,South Korea,1,South Korea,108,"4,753,000",Asia
+2003,Spain,21,Spain,60,"50,854,000",Europe
+2003,Sri Lanka,9,Sri Lanka,116,501,Asia
+2003,Thailand,6,Thailand,197,"10,082,000",Asia
+2003,Turkey,19,Turkey,204,"13,341,000",Asia
+2003,Uganda,30,Uganda,207,305,Africa
+2003,Ukraine,1,Ukraine,208,"12,514,000",Europe
+2003,United Kingdom,23,United Kingdom,69,"22,787,000",Europe
+2003,United States,33,United States,210,"41,218,000",North America
+2003,Venezuela,8,Venezuela,213,337,South America
+2003,Zimbabwe,1,Zimbabwe,223,"2,256,000",Africa
+2004,Algeria,67,Algeria,56,"1,234,000",Africa
+2004,Burundi,1,Burundi,14,133,Africa
+2004,Canada,2,Canada,32,"19,145,000",North America
+2004,China,2,China,36,"41,761,000",Asia
+2004,Colombia,37,Colombia,41,791,South America
+2004,Cyprus,1,Cyprus,49,"2,349,000",Europe
+2004,Ecuador,2,Ecuador,57,819,South America
+2004,Egypt,3,Egypt,58,"7,795,000",Africa
+2004,Ethiopia,2,Ethiopia,62,184,Africa
+2004,France,11,France,65,"74,433,000",Europe
+2004,Georgia,3,Georgia,70,368,Asia
+2004,Germany,3,Germany,51,"20,137,000",Europe
+2004,Greece,4,Greece,77,"13,313,000",Europe
+2004,Guatemala,2,Guatemala,80,"1,182,000",North America
+2004,Haiti,2,Haiti,86,96,North America
+2004,Honduras,1,Honduras,84,641,North America
+2004,India,108,India,91,"3,457,000",Asia
+2004,Indonesia,17,Indonesia,88,"5,321,000",Asia
+2004,Israel,19,Israel,97,"1,505,600",Asia
+2004,Italy,3,Italy,98,"37,071,000",Europe
+2004,Lebanon,1,Lebanon,111,"1,278,000",Asia
+2004,Mexico,1,Mexico,128,"20,618,000",North America
+2004,Myanmar,2,Myanmar,133,657,Asia
+2004,Nepal,62,Nepal,149,385,Asia
+2004,Netherlands,1,Netherlands,147,"9,646,000",Europe
+2004,Peru,3,Peru,156,"1,350,000",South America
+2004,Philippines,32,Philippines,157,"2,291,000",Asia
+2004,Russia,44,Russia,170,"22,064,000",Europe
+2004,Spain,31,Spain,60,"52,430,000",Europe
+2004,Sri Lanka,33,Sri Lanka,116,566,Asia
+2004,Sudan,5,Sudan,174,61,Africa
+2004,Tanzania,1,Tanzania,206,566,Africa
+2004,Thailand,44,Thailand,197,"11,737,000",Asia
+2004,Turkey,27,Turkey,204,"16,826,000",Asia
+2004,Uganda,10,Uganda,207,512,Africa
+2004,United Kingdom,5,United Kingdom,69,"25,678,000",Europe
+2004,United States,9,United States,210,"46,086,000",North America
+2005,Algeria,104,Algeria,56,"1,443,000",Africa
+2005,Argentina,3,Argentina,7,"3,823,000",South America
+2005,Bolivia,1,Bolivia,26,524,South America
+2005,Burundi,5,Burundi,14,148,Africa
+2005,China,1,China,36,"46,809,000",Asia
+2005,Colombia,42,Colombia,41,933,South America
+2005,Croatia,1,Croatia,85,"7,743,000",Europe
+2005,Egypt,2,Egypt,58,"8,244,000",Africa
+2005,Ethiopia,5,Ethiopia,62,227,Africa
+2005,France,33,France,65,"74,988,000",Europe
+2005,Georgia,6,Georgia,70,560,Asia
+2005,Germany,3,Germany,51,"21,500,000",Europe
+2005,Greece,6,Greece,77,"14,765,000",Europe
+2005,Haiti,1,Haiti,86,112,North America
+2005,India,146,India,91,"3,919,000",Asia
+2005,Indonesia,15,Indonesia,88,"5,002,000",Asia
+2005,Iran,5,Iran,94,"1,889,000",Asia
+2005,Israel,43,Israel,97,"1,903,000",Asia
+2005,Italy,6,Italy,98,"36,513,000",Europe
+2005,Jordan,4,Jordan,100,"2,987,000",Asia
+2005,Kenya,2,Kenya,103,"1,399,000",Africa
+2005,Lebanon,17,Lebanon,111,"1,140,000",Asia
+2005,Mali,1,Mali,131,143,Africa
+2005,Mexico,1,Mexico,128,"21,915,000",North America
+2005,Myanmar,8,Myanmar,133,660,Asia
+2005,Nepal,70,Nepal,149,375,Asia
+2005,Peru,2,Peru,156,"1,571,000",South America
+2005,Philippines,25,Philippines,157,"2,623,000",Asia
+2005,Qatar,1,Qatar,168,913,Asia
+2005,Russia,64,Russia,170,"22,201,000",Europe
+2005,Senegal,1,Senegal,175,769,Africa
+2005,Spain,24,Spain,60,"55,914,000",Europe
+2005,Sri Lanka,133,Sri Lanka,116,549,Asia
+2005,Sudan,6,Sudan,174,246,Africa
+2005,Sweden,3,Sweden,189,"4,883,000",Europe
+2005,Thailand,155,Thailand,197,"11,567,000",Asia
+2005,Togo,1,Togo,196,81,Africa
+2005,Trinidad and Tobago,2,Trinidad and Tobago,202,463,North America
+2005,Turkey,41,Turkey,204,"20,273,000",Asia
+2005,Uganda,11,Uganda,207,468,Africa
+2005,United Kingdom,29,United Kingdom,69,"28,039,000",Europe
+2005,United States,21,United States,210,"49,206,000",North America
+2005,Uruguay,1,Uruguay,209,"1,808,000",South America
+2006,Algeria,152,Algeria,56,"1,638,000",Africa
+2006,Australia,2,Australia,11,"5,532,000",Oceania
+2006,Austria,1,Austria,12,"20,269,000",Europe
+2006,Bahrain,1,Bahrain,20,"7,289,000",Asia
+2006,Belarus,1,Belarus,23,89,Europe
+2006,Bhutan,1,Bhutan,30,"17,3",Asia
+2006,Brazil,3,Brazil,27,"5,017,000",South America
+2006,Burundi,5,Burundi,14,214,Africa
+2006,Canada,2,Canada,32,"18,265,000",North America
+2006,Chile,1,Chile,35,"2,253,000",South America
+2006,Colombia,43,Colombia,41,"2,045,000",South America
+2006,Egypt,5,Egypt,58,"8,646,000",Africa
+2006,Ethiopia,11,Ethiopia,62,330,Africa
+2006,France,34,France,65,"77,916,000",Europe
+2006,Georgia,3,Georgia,70,983,Asia
+2006,Germany,4,Germany,51,"23,569,000",Europe
+2006,Greece,23,Greece,77,"16,039,000",Europe
+2006,Guatemala,4,Guatemala,80,"1,502,000",North America
+2006,Guyana,2,Guyana,82,113,South America
+2006,Haiti,1,Haiti,86,108,North America
+2006,India,167,India,91,"4,447,000",Asia
+2006,Indonesia,10,Indonesia,88,"4,871,000",Asia
+2006,Iran,14,Iran,94,"2,735,000",Asia
+2006,Ireland,1,Ireland,93,"8,001,000",Europe
+2006,Israel,81,Israel,97,"1,825,000",Asia
+2006,Italy,4,Italy,98,"41,058,000",Europe
+2006,Jordan,1,Jordan,100,"3,225,000",Asia
+2006,Kenya,2,Kenya,103,"1,464,000",Africa
+2006,Lebanon,8,Lebanon,111,"1,063,000",Asia
+2006,Lesotho,1,Lesotho,117,357,Africa
+2006,Madagascar,1,Madagascar,126,312,Africa
+2006,Maldives,1,Maldives,127,602,Asia
+2006,Mexico,7,Mexico,128,"21,353,000",North America
+2006,Myanmar,2,Myanmar,133,630,Asia
+2006,Nepal,83,Nepal,149,384,Asia
+2006,Norway,1,Norway,148,"4,070,000",Europe
+2006,Peru,1,Peru,156,"1,721,000",South America
+2006,Philippines,58,Philippines,157,"2,843,000",Asia
+2006,Russia,56,Russia,170,"22,486,000",Europe
+2006,South Korea,1,South Korea,108,"6,155,000",Asia
+2006,Spain,23,Spain,60,"58,004,000",Europe
+2006,Sri Lanka,217,Sri Lanka,116,560,Asia
+2006,Sudan,24,Sudan,174,328,Africa
+2006,Sweden,1,Sweden,189,"4,729,000",Europe
+2006,Thailand,202,Thailand,197,"13,822,000",Asia
+2006,Turkey,43,Turkey,204,"18,916,000",Asia
+2006,United Kingdom,6,United Kingdom,69,"30,654,000",Europe
+2006,United States,6,United States,210,"50,977,000",North America
+2006,Zimbabwe,1,Zimbabwe,223,"2,287,000",Africa
+2007,Algeria,124,Algeria,56,"1,743,000",Africa
+2007,Armenia,1,Armenia,8,511,Asia
+2007,Austria,1,Austria,12,"20,773,000",Europe
+2007,Belgium,1,Belgium,15,"7,045,000",Europe
+2007,Benin,1,Benin,16,186,Africa
+2007,Bolivia,3,Bolivia,26,573,South America
+2007,Burundi,3,Burundi,14,192,Africa
+2007,Chile,8,Chile,35,"2,507,000",South America
+2007,Colombia,30,Colombia,41,"2,254,000",South America
+2007,Cuba,1,Cuba,46,"2,119,000",North America
+2007,Cyprus,1,Cyprus,49,"2,416,000",Europe
+2007,Ethiopia,5,Ethiopia,62,358,Africa
+2007,Finland,1,Finland,63,"2,472,000",Europe
+2007,France,16,France,65,"80,853,000",Europe
+2007,Germany,3,Germany,51,"24,421,000",Europe
+2007,Greece,15,Greece,77,"16,165,000",Europe
+2007,Haiti,2,Haiti,86,386,North America
+2007,India,149,India,91,"5,082,000",Asia
+2007,Indonesia,2,Indonesia,88,"5,506,000",Asia
+2007,Iran,9,Iran,94,"2,219,000",Asia
+2007,Ireland,1,Ireland,93,"8,332,000",Europe
+2007,Israel,53,Israel,97,"2,067,000",Asia
+2007,Jamaica,1,Jamaica,99,"1,701,000",North America
+2007,Kenya,12,Kenya,103,"1,686,000",Africa
+2007,Latvia,1,Latvia,120,"1,653,000",Europe
+2007,Lebanon,18,Lebanon,111,"1,017,000",Asia
+2007,Maldives,1,Maldives,127,676,Asia
+2007,Mali,5,Mali,131,164,Africa
+2007,Mexico,10,Mexico,128,"21,606,000",North America
+2007,Morocco,6,Morocco,123,"7,408,000",Africa
+2007,Myanmar,3,Myanmar,133,716,Asia
+2007,Nepal,90,Nepal,149,527,Asia
+2007,Niger,7,Niger,144,48,Africa
+2007,Peru,4,Peru,156,"1,916,000",South America
+2007,Philippines,65,Philippines,157,"3,092,000",Asia
+2007,Russia,51,Russia,170,"22,909,000",Europe
+2007,Senegal,1,Senegal,175,875,Africa
+2007,South Africa,2,South Africa,221,"9,091,000",Africa
+2007,Spain,11,Spain,60,"58,666,000",Europe
+2007,Sri Lanka,132,Sri Lanka,116,494,Asia
+2007,Sudan,23,Sudan,174,436,Africa
+2007,Thailand,293,Thailand,197,"14,464,000",Asia
+2007,Tunisia,1,Tunisia,203,"6,762,000",Africa
+2007,Turkey,29,Turkey,204,"26,122,000",Asia
+2007,Uganda,1,Uganda,207,642,Africa
+2007,Ukraine,1,Ukraine,208,"23,122,000",Europe
+2007,United Kingdom,20,United Kingdom,69,"30,870,000",Europe
+2007,United States,8,United States,210,"56,135,000",North America
+2007,Venezuela,2,Venezuela,213,756,South America
+2007,Zimbabwe,1,Zimbabwe,223,"2,506,000",Africa
+2008,Algeria,107,Algeria,56,"1,772,000",Africa
+2008,Australia,3,Australia,11,"5,586,000",Oceania
+2008,Austria,7,Austria,12,"21,935,000",Europe
+2008,Bahrain,1,Bahrain,20,"8,631,000",Asia
+2008,Belarus,1,Belarus,23,"90,5",Europe
+2008,Bhutan,3,Bhutan,30,28,Asia
+2008,Bulgaria,2,Bulgaria,19,"5,780,000",Europe
+2008,Burundi,7,Burundi,14,202,Africa
+2008,Cambodia,2,Cambodia,105,"2,125,000",Asia
+2008,Canada,5,Canada,32,"17,142,000",North America
+2008,Chile,4,Chile,35,"2,710,000",South America
+2008,China,20,China,36,"53,049,000",Asia
+2008,Colombia,133,Colombia,41,"2,317,000",South America
+2008,Croatia,2,Croatia,85,"8,665,000",Europe
+2008,Czech Republic,2,Czech Republic,50,"6,649,000",Europe
+2008,Ecuador,2,Ecuador,57,"1,005,000",South America
+2008,Egypt,1,Egypt,58,"12,296,000",Africa
+2008,Ethiopia,8,Ethiopia,62,383,Africa
+2008,Finland,1,Finland,63,"2,494,000",Europe
+2008,France,13,France,65,"79,218,000",Europe
+2008,Georgia,33,Georgia,70,"1,290,000",Asia
+2008,Germany,3,Germany,51,"24,884,000",Europe
+2008,Greece,53,Greece,77,"15,939,000",Europe
+2008,Guyana,3,Guyana,82,130,South America
+2008,Hungary,2,Hungary,87,"3,516,000",Europe
+2008,India,534,India,91,"5,283,000",Asia
+2008,Indonesia,13,Indonesia,88,"6,234,000",Asia
+2008,Iran,8,Iran,94,"2,034,000",Asia
+2008,Ireland,5,Ireland,93,"8,026,000",Europe
+2008,Israel,134,Israel,97,"2,572,000",Asia
+2008,Italy,2,Italy,98,"42,734,000",Europe
+2008,Japan,3,Japan,101,"8,351,000",Asia
+2008,Kenya,11,Kenya,103,"1,141,000",Africa
+2008,Lebanon,58,Lebanon,111,"1,333,000",Asia
+2008,Malaysia,2,Malaysia,141,"22,052,000",Asia
+2008,Maldives,1,Maldives,127,683,Asia
+2008,Mali,9,Mali,131,190,Africa
+2008,Mexico,8,Mexico,128,"22,931,000",North America
+2008,Myanmar,20,Myanmar,133,731,Asia
+2008,Nepal,120,Nepal,149,500,Asia
+2008,Netherlands,1,Netherlands,147,"10,104,000",Europe
+2008,Niger,9,Niger,144,73,Africa
+2008,Peru,1,Peru,156,"2,058,000",South America
+2008,Philippines,276,Philippines,157,"3,139,000",Asia
+2008,Romania,1,Romania,169,"8,862,000",Europe
+2008,Russia,170,Russia,170,"23,676,000",Europe
+2008,Senegal,2,Senegal,175,867,Africa
+2008,South Africa,1,South Africa,221,"9,592,000",Africa
+2008,Spain,37,Spain,60,"57,192,000",Europe
+2008,Sri Lanka,100,Sri Lanka,116,438,Asia
+2008,Sudan,32,Sudan,174,440,Africa
+2008,Sweden,1,Sweden,189,"4,555,000",Europe
+2008,Tanzania,1,Tanzania,206,750,Africa
+2008,Thailand,200,Thailand,197,"14,584,000",Asia
+2008,Tunisia,2,Tunisia,203,"7,050,000",Africa
+2008,Turkey,32,Turkey,204,"29,792,000",Asia
+2008,Uganda,7,Uganda,207,844,Africa
+2008,Ukraine,1,Ukraine,208,"25,449,000",Europe
+2008,United Kingdom,39,United Kingdom,69,"30,142,000",Europe
+2008,United States,18,United States,210,"58,007,000",North America
+2008,Venezuela,1,Venezuela,213,699,South America
+2008,Zimbabwe,5,Zimbabwe,223,"1,956,000",Africa
+2009,Albania,1,Albania,4,"1,711,000",Europe
+2009,Algeria,108,Algeria,56,"1,912,000",Africa
+2009,Angola,1,Angola,3,366,Africa
+2009,Argentina,1,Argentina,7,"4,308,000",South America
+2009,Armenia,1,Armenia,8,575,Asia
+2009,Australia,1,Australia,11,"5,490,000",Oceania
+2009,Austria,3,Austria,12,"21,355,000",Europe
+2009,Belgium,1,Belgium,15,"6,815,000",Europe
+2009,Bolivia,3,Bolivia,26,599,South America
+2009,Canada,4,Canada,32,"15,737,000",North America
+2009,Chile,8,Chile,35,"2,760,000",South America
+2009,China,7,China,36,"50,875,000",Asia
+2009,Colombia,139,Colombia,41,"2,364,000",South America
+2009,Croatia,1,Croatia,85,"8,694,000",Europe
+2009,Czech Republic,1,Czech Republic,50,"6,032,000",Europe
+2009,Ecuador,1,Ecuador,57,968,South America
+2009,Egypt,2,Egypt,58,"11,914,000",Africa
+2009,Ethiopia,2,Ethiopia,62,427,Africa
+2009,France,9,France,65,"76,764,000",Europe
+2009,Georgia,25,Georgia,70,"1,500,000",Asia
+2009,Germany,4,Germany,51,"24,220,000",Europe
+2009,Greece,115,Greece,77,"14,915,000",Europe
+2009,Honduras,8,Honduras,84,836,North America
+2009,Hungary,1,Hungary,87,"3,228,000",Europe
+2009,India,672,India,91,"5,168,000",Asia
+2009,Indonesia,19,Indonesia,88,"6,324,000",Asia
+2009,Iran,15,Iran,94,"2,116,000",Asia
+2009,Israel,36,Israel,97,"2,321,000",Asia
+2009,Italy,4,Italy,98,"43,239,000",Europe
+2009,Japan,1,Japan,101,"6,790,000",Asia
+2009,Kenya,1,Kenya,103,"1,392,000",Africa
+2009,Lebanon,14,Lebanon,111,"1,844,000",Asia
+2009,Lesotho,1,Lesotho,117,344,Africa
+2009,Madagascar,1,Madagascar,126,163,Africa
+2009,Malaysia,1,Malaysia,141,"23,646,000",Asia
+2009,Mali,6,Mali,131,160,Africa
+2009,Mexico,1,Mexico,128,"22,346,000",North America
+2009,Myanmar,14,Myanmar,133,763,Asia
+2009,Nepal,39,Nepal,149,510,Asia
+2009,Netherlands,1,Netherlands,147,"9,921,000",Europe
+2009,Niger,4,Niger,144,66,Africa
+2009,Panama,1,Panama,155,"1,200,000",North America
+2009,Peru,4,Peru,156,"2,140,000",South America
+2009,Philippines,229,Philippines,157,"3,017,000",Asia
+2009,Russia,152,Russia,170,"21,339,000",Europe
+2009,Senegal,3,Senegal,175,810,Africa
+2009,Spain,21,Spain,60,"52,178,000",Europe
+2009,Sri Lanka,37,Sri Lanka,116,448,Asia
+2009,Sudan,26,Sudan,174,420,Africa
+2009,Sweden,1,Sweden,189,"4,899,000",Europe
+2009,Thailand,298,Thailand,197,"14,150,000",Asia
+2009,Turkey,13,Turkey,204,"30,187,000",Asia
+2009,Uganda,2,Uganda,207,807,Africa
+2009,Ukraine,2,Ukraine,208,"20,798,000",Europe
+2009,United Kingdom,23,United Kingdom,69,"28,199,000",Europe
+2009,United States,11,United States,210,"55,103,000",North America
+2009,Venezuela,3,Venezuela,213,562,South America
+2010,Algeria,100,Algeria,56,"2,070,000",Africa
+2010,Angola,2,Angola,3,425,Africa
+2010,Argentina,5,Argentina,7,"5,325,000",South America
+2010,Australia,1,Australia,11,"5,790,000",Oceania
+2010,Bahrain,2,Bahrain,20,"11,952,000",Asia
+2010,Belarus,2,Belarus,23,"119,3",Europe
+2010,Burundi,29,Burundi,14,142,Africa
+2010,Canada,2,Canada,32,"16,219,000",North America
+2010,Chile,5,Chile,35,"2,801,000",South America
+2010,China,1,China,36,"55,664,000",Asia
+2010,Colombia,136,Colombia,41,"1,405,000",South America
+2010,Egypt,2,Egypt,58,"14,051,000",Africa
+2010,Ethiopia,2,Ethiopia,62,468,Africa
+2010,France,3,France,65,"76,647,000",Europe
+2010,Georgia,7,Georgia,70,"2,032,000",Asia
+2010,Germany,1,Germany,51,"26,875,000",Europe
+2010,Greece,49,Greece,77,"15,007,000",Europe
+2010,India,663,India,91,"5,776,000",Asia
+2010,Indonesia,4,Indonesia,88,"7,003,000",Asia
+2010,Iran,14,Iran,94,"2,938,000",Asia
+2010,Ireland,4,Ireland,93,"7,134,000",Europe
+2010,Israel,14,Israel,97,"2,803,000",Asia
+2010,Italy,10,Italy,98,"43,626,000",Europe
+2010,Jordan,2,Jordan,100,"4,207,000",Asia
+2010,Kenya,12,Kenya,103,"1,470,000",Africa
+2010,Lebanon,5,Lebanon,111,"2,168,000",Asia
+2010,Mali,1,Mali,131,169,Africa
+2010,Mexico,5,Mexico,128,"23,290,000",North America
+2010,Myanmar,11,Myanmar,133,792,Asia
+2010,Nepal,38,Nepal,149,603,Asia
+2010,Netherlands,1,Netherlands,147,"10,883,000",Europe
+2010,Niger,3,Niger,144,74,Africa
+2010,Norway,1,Norway,148,"4,767,000",Europe
+2010,Paraguay,2,Paraguay,164,465,South America
+2010,Philippines,205,Philippines,157,"3,520,000",Asia
+2010,Poland,1,Poland,160,"12,470,000",Europe
+2010,Russia,251,Russia,170,"22,281,000",Europe
+2010,Senegal,1,Senegal,175,900,Africa
+2010,Spain,3,Spain,60,"52,677,000",Europe
+2010,Sri Lanka,3,Sri Lanka,116,654,Asia
+2010,Sudan,28,Sudan,174,495,Africa
+2010,Sweden,3,Sweden,189,"5,183,000",Europe
+2010,Tanzania,1,Tanzania,206,754,Africa
+2010,Thailand,253,Thailand,197,"15,936,000",Asia
+2010,Trinidad and Tobago,1,Trinidad and Tobago,202,388,North America
+2010,Turkey,20,Turkey,204,"31,364,000",Asia
+2010,Uganda,6,Uganda,207,946,Africa
+2010,Ukraine,4,Ukraine,208,"21,203,000",Europe
+2010,United Kingdom,57,United Kingdom,69,"28,295,000",Europe
+2010,United States,17,United States,210,"60,010,000",North America
+2010,Zimbabwe,1,Zimbabwe,223,"2,239,000",Africa
+2011,Algeria,15,Algeria,56,"2,395,000",Africa
+2011,Argentina,1,Argentina,7,"5,705,000",South America
+2011,Austria,1,Austria,12,"23,012,000",Europe
+2011,Bahrain,1,Bahrain,20,"6,732,000",Asia
+2011,Belarus,1,Belarus,23,116,Europe
+2011,Bhutan,1,Bhutan,30,66,Asia
+2011,Bulgaria,2,Bulgaria,19,"6,328,000",Europe
+2011,Burundi,8,Burundi,14,144,Africa
+2011,Chile,6,Chile,35,"3,137,000",South America
+2011,China,4,China,36,"57,581,000",Asia
+2011,Colombia,94,Colombia,41,"2,042,000",South America
+2011,Czech Republic,1,Czech Republic,50,"6,715,000",Europe
+2011,Ecuador,1,Ecuador,57,"1,141,000",South America
+2011,Egypt,18,Egypt,58,"9,497,000",Africa
+2011,Estonia,1,Estonia,61,"2,823,000",Europe
+2011,Ethiopia,3,Ethiopia,62,523,Africa
+2011,France,8,France,65,"80,499,000",Europe
+2011,Georgia,3,Georgia,70,"2,712,000",Asia
+2011,Germany,8,Germany,51,"28,374,000",Europe
+2011,Greece,11,Greece,77,"16,427,000",Europe
+2011,Honduras,1,Honduras,84,871,North America
+2011,India,645,India,91,"6,309,000",Asia
+2011,Indonesia,21,Indonesia,88,"7,650,000",Asia
+2011,Iran,13,Iran,94,"3,354,000",Asia
+2011,Ireland,4,Ireland,93,"7,630,000",Europe
+2011,Israel,51,Israel,97,"2,820,000",Asia
+2011,Italy,5,Italy,98,"46,119,000",Europe
+2011,Kenya,42,Kenya,103,"1,750,000",Africa
+2011,Lebanon,10,Lebanon,111,"1,655,000",Asia
+2011,Madagascar,1,Madagascar,126,225,Africa
+2011,Mali,4,Mali,131,160,Africa
+2011,Mexico,2,Mexico,128,"23,403,000",North America
+2011,Morocco,1,Morocco,123,"9,342,000",Africa
+2011,Myanmar,2,Myanmar,133,816,Asia
+2011,Nepal,46,Nepal,149,736,Asia
+2011,Netherlands,2,Netherlands,147,"11,300,000",Europe
+2011,Niger,2,Niger,144,82,Africa
+2011,Norway,3,Norway,148,"4,963,000",Europe
+2011,Paraguay,4,Paraguay,164,524,South America
+2011,Philippines,151,Philippines,157,"3,917,000",Asia
+2011,Portugal,2,Portugal,163,"7,264,000",Europe
+2011,Russia,188,Russia,170,"24,932,000",Europe
+2011,Senegal,4,Senegal,175,968,Africa
+2011,Sudan,38,Sudan,174,536,Africa
+2011,Sweden,1,Sweden,189,"5,222,000",Europe
+2011,Thailand,182,Thailand,197,"19,230,000",Asia
+2011,Tunisia,3,Tunisia,203,"5,746,000",Africa
+2011,Turkey,51,Turkey,204,"34,654,000",Asia
+2011,Ukraine,3,Ukraine,208,"21,415,000",Europe
+2011,United Kingdom,47,United Kingdom,69,"29,306,000",Europe
+2011,United States,10,United States,210,"62,821,000",North America
+2011,Zimbabwe,1,Zimbabwe,223,"2,423,000",Africa
+2012,Algeria,41,Algeria,56,"2,634,000",Africa
+2012,Argentina,2,Argentina,7,"5,587,000",South America
+2012,Bahrain,26,Bahrain,20,"8,062,000",Asia
+2012,Belarus,3,Belarus,23,"6,129,900",Europe
+2012,Belgium,1,Belgium,15,"7,560,000",Europe
+2012,Bolivia,1,Bolivia,26,798,South America
+2012,Brazil,1,Brazil,27,"5,677,000",South America
+2012,Bulgaria,2,Bulgaria,19,"6,541,000",Europe
+2012,Burundi,4,Burundi,14,147,Africa
+2012,Canada,3,Canada,32,"16,344,000",North America
+2012,Chile,2,Chile,35,"3,554,000",South America
+2012,China,4,China,36,"57,725,000",Asia
+2012,Colombia,115,Colombia,41,"2,175,000",South America
+2012,Cyprus,1,Cyprus,49,"2,465,000",Europe
+2012,Ecuador,1,Ecuador,57,"1,272,000",South America
+2012,Egypt,49,Egypt,58,"11,196,000",Africa
+2012,Ethiopia,3,Ethiopia,62,597,Africa
+2012,France,66,France,65,"81,980,000",Europe
+2012,Georgia,3,Georgia,70,"4,106,000",Asia
+2012,Germany,5,Germany,51,"30,411,000",Europe
+2012,Greece,22,Greece,77,"15,518,000",Europe
+2012,Guatemala,1,Guatemala,80,"1,491,000",North America
+2012,Iceland,1,Iceland,96,673,Europe
+2012,India,611,India,91,"6,578,000",Asia
+2012,Indonesia,39,Indonesia,88,"8,044,000",Asia
+2012,Iran,5,Iran,94,"3,834,000",Asia
+2012,Ireland,29,Ireland,93,"7,550,000",Europe
+2012,Israel,65,Israel,97,"2,886,000",Asia
+2012,Italy,10,Italy,98,"46,360,000",Europe
+2012,Jordan,2,Jordan,100,"4,162,000",Asia
+2012,Kenya,80,Kenya,103,"1,619,000",Africa
+2012,Lebanon,15,Lebanon,111,"1,366,000",Asia
+2012,Madagascar,1,Madagascar,126,256,Africa
+2012,Malaysia,2,Malaysia,141,"25,033,000",Asia
+2012,Maldives,1,Maldives,127,958,Asia
+2012,Mali,19,Mali,131,134,Africa
+2012,Mexico,16,Mexico,128,"23,403,000",North America
+2012,Myanmar,17,Myanmar,133,"1,059,000",Asia
+2012,Nepal,46,Nepal,149,803,Asia
+2012,Niger,1,Niger,144,94,Africa
+2012,Paraguay,4,Paraguay,164,579,South America
+2012,Peru,6,Peru,156,"2,846,000",South America
+2012,Philippines,249,Philippines,157,"4,273,000",Asia
+2012,Russia,151,Russia,170,"28,177,000",Europe
+2012,Senegal,12,Senegal,175,962,Africa
+2012,South Africa,4,South Africa,221,"9,188,000",Africa
+2012,Spain,1,Spain,60,"57,464,000",Europe
+2012,Sri Lanka,4,Sri Lanka,116,"1,006,000",Asia
+2012,Sudan,40,Sudan,174,575,Africa
+2012,Sweden,2,Sweden,189,"5,146,000",Europe
+2012,Thailand,279,Thailand,197,"22,354,000",Asia
+2012,Tunisia,3,Tunisia,203,"6,999,000",Africa
+2012,Turkey,188,Turkey,204,"35,698,000",Asia
+2012,Uganda,4,Uganda,207,"1,197,000",Africa
+2012,Ukraine,8,Ukraine,208,"23,013,000",Europe
+2012,United Kingdom,55,United Kingdom,69,"29,282,000",Europe
+2012,United States,20,United States,210,"66,657,000",North America
+2012,Venezuela,1,Venezuela,213,988,South America
+2013,Albania,1,Albania,4,"2,857,000",Europe
+2013,Algeria,22,Algeria,56,"2,733,000",Africa
+2013,Argentina,2,Argentina,7,"5,246,000",South America
+2013,Armenia,1,Armenia,8,"1,084,000",Asia
+2013,Australia,1,Australia,11,"6,482,000",Oceania
+2013,Austria,1,Austria,12,"24,813,000",Europe
+2013,Bahrain,52,Bahrain,20,"9,163,000",Asia
+2013,Belize,1,Belize,24,294,North America
+2013,Brazil,3,Brazil,27,"5,813,000",South America
+2013,Bulgaria,3,Bulgaria,19,"6,898,000",Europe
+2013,Burkina Faso,1,Burkina Faso,17,218,Africa
+2013,Burundi,2,Burundi,14,234,Africa
+2013,Cambodia,2,Cambodia,105,"4,210,000",Asia
+2013,Canada,4,Canada,32,"16,059,000",North America
+2013,Chile,5,Chile,35,"3,576,000",South America
+2013,China,12,China,36,"55,686,000",Asia
+2013,Colombia,149,Colombia,41,"2,288,000",South America
+2013,Croatia,2,Croatia,85,"10,948,000",Europe
+2013,Cyprus,9,Cyprus,49,"2,405,000",Europe
+2013,Czech Republic,1,Czech Republic,50,"7,852,000",Europe
+2013,Dominican Republic,1,Dominican Republic,55,"4,690,000",North America
+2013,Ecuador,2,Ecuador,57,"1,364,000",South America
+2013,Egypt,321,Egypt,58,"9,174,000",Africa
+2013,Ethiopia,5,Ethiopia,62,681,Africa
+2013,France,18,France,65,"83,634,000",Europe
+2013,Georgia,2,Georgia,70,"4,954,000",Asia
+2013,Greece,54,Greece,77,"17,920,000",Europe
+2013,Guatemala,6,Guatemala,80,"1,516,000",North America
+2013,Honduras,2,Honduras,84,863,North America
+2013,India,694,India,91,"6,968,000",Asia
+2013,Indonesia,32,Indonesia,88,"8,802,000",Asia
+2013,Iran,11,Iran,94,"4,769,000",Asia
+2013,Ireland,27,Ireland,93,"8,260,000",Europe
+2013,Israel,37,Israel,97,"2,962,000",Asia
+2013,Italy,7,Italy,98,"47,704,000",Europe
+2013,Japan,1,Japan,101,"10,364,000",Asia
+2013,Jordan,1,Jordan,100,"3,945,000",Asia
+2013,Kenya,80,Kenya,103,"1,434,000",Africa
+2013,Lebanon,121,Lebanon,111,"1,274,000",Asia
+2013,Madagascar,2,Madagascar,126,196,Africa
+2013,Malaysia,13,Malaysia,141,"25,715,000",Asia
+2013,Maldives,3,Maldives,127,"1,125,000",Asia
+2013,Mali,58,Mali,131,142,Africa
+2013,Mexico,8,Mexico,128,"24,151,000",North America
+2013,Myanmar,18,Myanmar,133,"2,044,000",Asia
+2013,Nepal,104,Nepal,149,798,Asia
+2013,Niger,4,Niger,144,123,Africa
+2013,Paraguay,10,Paraguay,164,610,South America
+2013,Peru,10,Peru,156,"3,164,000",South America
+2013,Philippines,651,Philippines,157,"4,681,000",Asia
+2013,Russia,144,Russia,170,"30,792,000",Europe
+2013,Senegal,3,Senegal,175,"1,063,000",Africa
+2013,South Africa,13,South Africa,221,"9,537,000",Africa
+2013,Spain,5,Spain,60,"60,675,000",Europe
+2013,Sri Lanka,14,Sri Lanka,116,"1,275,000",Asia
+2013,Sudan,46,Sudan,174,591,Africa
+2013,Tanzania,7,Tanzania,206,"1,063,000",Africa
+2013,Thailand,472,Thailand,197,"26,547,000",Asia
+2013,Trinidad and Tobago,3,Trinidad and Tobago,202,434,North America
+2013,Tunisia,29,Tunisia,203,"7,352,000",Africa
+2013,Turkey,42,Turkey,204,"37,795,000",Asia
+2013,Ukraine,5,Ukraine,208,"24,671,000",Europe
+2013,United Kingdom,137,United Kingdom,69,"31,063,000",Europe
+2013,United States,20,United States,210,"69,995,000",North America
+2013,Venezuela,1,Venezuela,213,986,South America
+2013,Zimbabwe,3,Zimbabwe,223,"1,833,000",Africa
+2014,Albania,2,Albania,4,"3,341,000",Europe
+2014,Algeria,13,Algeria,56,"2,301,000",Africa
+2014,Argentina,1,Argentina,7,"5,931,000",South America
+2014,Australia,8,Australia,11,"6,922,000",Oceania
+2014,Bahrain,42,Bahrain,20,"10,452,000",Asia
+2014,Belgium,2,Belgium,15,"7,887,000",Europe
+2014,Bhutan,1,Bhutan,30,133,Asia
+2014,Brazil,3,Brazil,27,"6,430,000",South America
+2014,Bulgaria,1,Bulgaria,19,"7,311,000",Europe
+2014,Burundi,5,Burundi,14,235,Africa
+2014,Canada,3,Canada,32,"16,537,000",North America
+2014,Chile,17,Chile,35,"3,674,000",South America
+2014,China,37,China,36,"55,622,000",Asia
+2014,Colombia,231,Colombia,41,"2,552,000",South America
+2014,Cyprus,5,Cyprus,49,"2,441,000",Europe
+2014,Czech Republic,5,Czech Republic,50,"8,096,000",Europe
+2014,Dominican Republic,1,Dominican Republic,55,"5,141,400",North America
+2014,Egypt,354,Egypt,58,"9,628,300",Africa
+2014,Ethiopia,2,Ethiopia,62,770,Africa
+2014,France,14,France,65,"83,701,000",Europe
+2014,Georgia,2,Georgia,70,"5,004,000",Asia
+2014,Germany,13,Germany,51,"32,999,000",Europe
+2014,Greece,26,Greece,77,"22,033,000",Europe
+2014,Honduras,1,Honduras,84,868,North America
+2014,Hungary,1,Hungary,87,"4,618,000",Europe
+2014,Iceland,1,Iceland,96,"997,6",Europe
+2014,India,860,India,91,"13,107,000",Asia
+2014,Indonesia,35,Indonesia,88,"9,435,000",Asia
+2014,Iran,9,Iran,94,"4,968,000",Asia
+2014,Ireland,33,Ireland,93,"8,813,000",Europe
+2014,Israel,293,Israel,97,"2,927,000",Asia
+2014,Italy,7,Italy,98,"48,576,000",Europe
+2014,Jamaica,1,Jamaica,99,"2,080,000",North America
+2014,Japan,5,Japan,101,"13,413,000",Asia
+2014,Jordan,3,Jordan,100,"3,990,000",Asia
+2014,Kenya,115,Kenya,103,"1,261,000",Africa
+2014,Lebanon,204,Lebanon,111,"1,355,000",Asia
+2014,Madagascar,1,Madagascar,126,222,Africa
+2014,Malaysia,12,Malaysia,141,"27,437,000",Asia
+2014,Maldives,9,Maldives,127,"1,205,000",Asia
+2014,Mali,69,Mali,131,168,Africa
+2014,Malta,1,Malta,132,"1,690,000",Europe
+2014,Mexico,5,Mexico,128,"29,346,000",North America
+2014,Myanmar,15,Myanmar,133,"3,081,000",Asia
+2014,Nepal,7,Nepal,149,790,Asia
+2014,Netherlands,1,Netherlands,147,"13,925,000",Europe
+2014,Nicaragua,2,Nicaragua,146,"1,330,000",North America
+2014,Niger,5,Niger,144,135,Africa
+2014,Paraguay,15,Paraguay,164,649,South America
+2014,Peru,12,Peru,156,"3,215,000",South America
+2014,Philippines,597,Philippines,157,"4,833,000",Asia
+2014,Russia,48,Russia,170,"32,421,000",Europe
+2014,Senegal,2,Senegal,175,963,Africa
+2014,South Africa,20,South Africa,221,"9,549,000",Africa
+2014,Spain,4,Spain,60,"64,939,000",Europe
+2014,Sri Lanka,16,Sri Lanka,116,"1,527,000",Asia
+2014,Sudan,157,Sudan,174,684,Africa
+2014,Sweden,5,Sweden,189,"5,660,000",Europe
+2014,Tanzania,11,Tanzania,206,"1,113,000",Africa
+2014,Thailand,423,Thailand,197,"24,810,000",Asia
+2014,Tunisia,23,Tunisia,203,"7,163,000",Africa
+2014,Turkey,94,Turkey,204,"39,811,000",Asia
+2014,Uganda,6,Uganda,207,"1,266,000",Africa
+2014,Ukraine,895,Ukraine,208,"12,712,000",Europe
+2014,United Kingdom,103,United Kingdom,69,"32,613,000",Europe
+2014,United States,29,United States,210,"75,022,000",North America
+2014,Venezuela,4,Venezuela,213,857,South America
+2014,Zimbabwe,1,Zimbabwe,223,"1,880,000",Africa
+2015,Albania,4,Albania,4,"3,784,000",Europe
+2015,Algeria,16,Algeria,56,"1,710,000",Africa
+2015,Argentina,1,Argentina,7,"5,736,000",South America
+2015,Armenia,2,Armenia,8,"1,192,000",Asia
+2015,Australia,14,Australia,11,"7,450,000",Oceania
+2015,Bahrain,18,Bahrain,20,"9,670,000",Asia
+2015,Brazil,5,Brazil,27,"6,306,000",South America
+2015,Bulgaria,2,Bulgaria,19,"7,099,000",Europe
+2015,Burkina Faso,6,Burkina Faso,17,163,Africa
+2015,Burundi,102,Burundi,14,131,Africa
+2015,Canada,5,Canada,32,"17,971,000",North America
+2015,Chile,1,Chile,35,"4,478,000",South America
+2015,China,17,China,36,"56,886,000",Asia
+2015,Colombia,136,Colombia,41,"2,978,000",South America
+2015,Cyprus,3,Cyprus,49,"2,659,000",Europe
+2015,Czech Republic,4,Czech Republic,50,"8,707,000",Europe
+2015,Ecuador,1,Ecuador,57,"1,544,000",South America
+2015,Egypt,647,Egypt,58,"9,139,000",Africa
+2015,Estonia,2,Estonia,61,"2,961,000",Europe
+2015,Ethiopia,7,Ethiopia,62,864,Africa
+2015,Finland,9,Finland,63,"2,622,000",Europe
+2015,France,37,France,65,"84,452,000",Europe
+2015,Georgia,1,Georgia,70,"5,256,000",Asia
+2015,Germany,65,Germany,51,"34,970,000",Europe
+2015,Greece,31,Greece,77,"23,599,000",Europe
+2015,Hungary,1,Hungary,87,"4,929,000",Europe
+2015,India,884,India,91,"13,284,000",Asia
+2015,Indonesia,29,Indonesia,88,"10,407,000",Asia
+2015,Iran,9,Iran,94,"5,237,000",Asia
+2015,Ireland,28,Ireland,93,"9,528,000",Europe
+2015,Israel,58,Israel,97,"2,799,000",Asia
+2015,Italy,5,Italy,98,"50,732,000",Europe
+2015,Japan,10,Japan,101,"19,737,000",Asia
+2015,Jordan,4,Jordan,100,"3,761,000",Asia
+2015,Kenya,71,Kenya,103,"1,114,000",Africa
+2015,Lebanon,44,Lebanon,111,"1,518,000",Asia
+2015,Lesotho,1,Lesotho,117,"1,082,000",Africa
+2015,Malaysia,5,Malaysia,141,"25,721,000",Asia
+2015,Maldives,2,Maldives,127,"1,234,000",Asia
+2015,Mali,121,Mali,131,"159,3",Africa
+2015,Malta,1,Malta,132,"1,783,000",Europe
+2015,Mexico,19,Mexico,128,"32,093,000",North America
+2015,Morocco,1,Morocco,123,"10,177,000",Africa
+2015,Myanmar,37,Myanmar,133,"4,681,000",Asia
+2015,Nepal,48,Nepal,149,539,Asia
+2015,Netherlands,3,Netherlands,147,"15,007,000",Europe
+2015,Niger,41,Niger,144,135,Africa
+2015,Paraguay,19,Paraguay,164,"1,215,000",South America
+2015,Peru,10,Peru,156,"3,456,000",South America
+2015,Philippines,721,Philippines,157,"5,361,000",Asia
+2015,Qatar,1,Qatar,168,"2,941,100",Asia
+2015,Russia,21,Russia,170,"33,729,000",Europe
+2015,Senegal,2,Senegal,175,"1,006,600",Africa
+2015,South Africa,5,South Africa,221,"8,904,000",Africa
+2015,South Korea,1,South Korea,108,"13,232,000",Asia
+2015,Spain,1,Spain,60,"68,175,000",Europe
+2015,Sri Lanka,11,Sri Lanka,116,"1,798,000",Asia
+2015,Sudan,158,Sudan,174,741,Africa
+2015,Sweden,32,Sweden,189,"6,482,000",Europe
+2015,Tanzania,14,Tanzania,206,"1,104,000",Africa
+2015,Thailand,278,Thailand,197,"29,923,000",Asia
+2015,Trinidad and Tobago,1,Trinidad and Tobago,202,440,North America
+2015,Tunisia,17,Tunisia,203,"5,359,000",Africa
+2015,Turkey,422,Turkey,204,"39,478,000",Asia
+2015,Uganda,10,Uganda,207,"1,303,000",Africa
+2015,Ukraine,637,Ukraine,208,"12,428,000",Europe
+2015,United Kingdom,114,United Kingdom,69,"34,436,000",Europe
+2015,United States,38,United States,210,"77,774,000",North America
+2015,Venezuela,3,Venezuela,213,789,South America
+2016,Albania,2,Albania,4,"4,070,000",Europe
+2016,Algeria,9,Algeria,56,"2,039,000",Africa
+2016,Angola,2,Angola,3,397,Africa
+2016,Argentina,2,Argentina,7,"6,655,000",South America
+2016,Armenia,2,Armenia,8,"1,260,000",Asia
+2016,Australia,9,Australia,11,"8,269,000",Oceania
+2016,Austria,3,Austria,12,"28,121,000",Europe
+2016,Bahrain,3,Bahrain,20,"10,158,000",Asia
+2016,Belgium,6,Belgium,15,"7,481,000",Europe
+2016,Brazil,2,Brazil,27,"6,547,000",South America
+2016,Bulgaria,1,Bulgaria,19,"8,252,000",Europe
+2016,Burkina Faso,10,Burkina Faso,17,152,Africa
+2016,Burundi,83,Burundi,14,187,Africa
+2016,Canada,6,Canada,32,"19,971,000",North America
+2016,Chile,18,Chile,35,"5,641,000",South America
+2016,China,5,China,36,"59,270,000",Asia
+2016,Colombia,109,Colombia,41,"3,317,000",South America
+2016,Cyprus,2,Cyprus,49,"3,187,000",Europe
+2016,Czech Republic,2,Czech Republic,50,"9,321,000",Europe
+2016,Ecuador,2,Ecuador,57,"1,418,000",South America
+2016,Egypt,376,Egypt,58,"5,258,000",Africa
+2016,Ethiopia,13,Ethiopia,62,871,Africa
+2016,Finland,3,Finland,63,"2,789,000",Europe
+2016,France,26,France,65,"82,682,000",Europe
+2016,Georgia,4,Georgia,70,"5,393,000",Asia
+2016,Germany,44,Germany,51,"35,555,000",Europe
+2016,Greece,31,Greece,77,"24,799,000",Europe
+2016,Guyana,1,Guyana,82,235,South America
+2016,Haiti,1,Haiti,86,445,North America
+2016,Honduras,1,Honduras,84,838,North America
+2016,Hungary,1,Hungary,87,"5,302,000",Europe
+2016,India,1025,India,91,"14,570,000",Asia
+2016,Indonesia,19,Indonesia,88,"11,519,000",Asia
+2016,Iran,10,Iran,94,"4,942,000",Asia
+2016,Ireland,15,Ireland,93,"10,100,000",Europe
+2016,Israel,50,Israel,97,"2,900,000",Asia
+2016,Italy,11,Italy,98,"52,372,000",Europe
+2016,Japan,1,Japan,101,"24,040,000",Asia
+2016,Jordan,9,Jordan,100,"3,567,000",Asia
+2016,Kenya,65,Kenya,103,"1,268,000",Africa
+2016,Lebanon,41,Lebanon,111,"1,688,000",Asia
+2016,Madagascar,1,Madagascar,126,293,Africa
+2016,Malaysia,19,Malaysia,141,"26,757,000",Asia
+2016,Maldives,1,Maldives,127,"1,286,000",Asia
+2016,Mali,99,Mali,131,"173,2",Africa
+2016,Mexico,5,Mexico,128,"35,079,000",North America
+2016,Myanmar,74,Myanmar,133,"2,907,000",Asia
+2016,Nepal,43,Nepal,149,753,Asia
+2016,Netherlands,6,Netherlands,147,"15,828,000",Europe
+2016,Niger,25,Niger,144,152,Africa
+2016,Panama,1,Panama,155,"1,921,000",North America
+2016,Paraguay,15,Paraguay,164,"1,308,000",South America
+2016,Peru,3,Peru,156,"3,744,000",South America
+2016,Philippines,632,Philippines,157,"5,967,000",Asia
+2016,Poland,2,Poland,160,"17,471,000",Europe
+2016,Russia,55,Russia,170,"24,571,000",Europe
+2016,Slovak Republic,1,Slovak Republic,187,"2,027,000",Europe
+2016,South Africa,27,South Africa,221,"10,044,000",Africa
+2016,South Korea,1,South Korea,108,"17,242,000",Asia
+2016,Spain,3,Spain,60,"75,315,000",Europe
+2016,Sri Lanka,1,Sri Lanka,116,"2,051,000",Asia
+2016,Sudan,173,Sudan,174,800,Africa
+2016,Sweden,16,Sweden,189,"6,782,000",Europe
+2016,Tanzania,3,Tanzania,206,"1,233,000",Africa
+2016,Thailand,329,Thailand,197,"32,530,000",Asia
+2016,Tunisia,12,Tunisia,203,"5,724,000",Africa
+2016,Turkey,542,Turkey,204,"30,289,000",Asia
+2016,Uganda,15,Uganda,207,"1,323,000",Africa
+2016,Ukraine,61,Ukraine,208,"13,333,000",Europe
+2016,United Kingdom,105,United Kingdom,69,"35,814,000",Europe
+2016,United States,64,United States,210,"76,407,000",North America
+2016,Uruguay,1,Uruguay,209,"3,037,000",South America
+2016,Venezuela,6,Venezuela,213,601,South America
+2017,Albania,1,Albania,4,"4,643,000",Europe
+2017,Algeria,14,Algeria,56,"2,451,000",Africa
+2017,Angola,6,Angola,3,261,Africa
+2017,Argentina,3,Argentina,7,"6,720,000",South America
+2017,Australia,4,Australia,11,"8,815,000",Oceania
+2017,Austria,1,Austria,12,"29,460,000",Europe
+2017,Bahrain,21,Bahrain,20,"11,370,000",Asia
+2017,Belgium,3,Belgium,15,"8,385,000",Europe
+2017,Brazil,2,Brazil,27,"6,589,000",South America
+2017,Burkina Faso,32,Burkina Faso,17,143,Africa
+2017,Burundi,21,Burundi,14,299,Africa
+2017,Canada,12,Canada,32,"20,798,000",North America
+2017,Chile,12,Chile,35,"6,450,000",South America
+2017,China,6,China,36,"60,740,000",Asia
+2017,Colombia,117,Colombia,41,"4,113,000",South America
+2017,Czech Republic,3,Czech Republic,50,"10,160,000",Europe
+2017,Dominican Republic,1,Dominican Republic,55,"6,188,000",North America
+2017,Ecuador,3,Ecuador,57,"1,608,000",South America
+2017,Egypt,224,Egypt,58,"8,157,000",Africa
+2017,Ethiopia,27,Ethiopia,62,933,Africa
+2017,Finland,2,Finland,63,"3,180,000",Europe
+2017,France,41,France,65,"86,861,000",Europe
+2017,Georgia,1,Georgia,70,"6,483,000",Asia
+2017,Germany,27,Germany,51,"37,452,000",Europe
+2017,Greece,43,Greece,77,"27,194,000",Europe
+2017,Honduras,1,Honduras,84,851,North America
+2017,India,966,India,91,"15,543,000",Asia
+2017,Indonesia,27,Indonesia,88,"14,040,000",Asia
+2017,Iran,11,Iran,94,"4,867,000",Asia
+2017,Ireland,17,Ireland,93,"10,338,000",Europe
+2017,Israel,32,Israel,97,"3,613,000",Asia
+2017,Italy,8,Italy,98,"58,253,000",Europe
+2017,Jamaica,2,Jamaica,99,"2,353,000",North America
+2017,Jordan,8,Jordan,100,"3,843,500",Asia
+2017,Kenya,97,Kenya,103,"1,364,000",Africa
+2017,Latvia,1,Latvia,120,"1,949,000",Europe
+2017,Lebanon,23,Lebanon,111,"1,857,000",Asia
+2017,Malawi,1,Malawi,140,837,Africa
+2017,Malaysia,4,Malaysia,141,"25,948,000",Asia
+2017,Maldives,2,Maldives,127,"1,390,000",Asia
+2017,Mali,141,Mali,131,"193,3",Africa
+2017,Malta,3,Malta,132,"2,274,000",Europe
+2017,Mexico,20,Mexico,128,"39,291,000",North America
+2017,Myanmar,115,Myanmar,133,"3,443,000",Asia
+2017,Nepal,247,Nepal,149,940,Asia
+2017,Netherlands,1,Netherlands,147,"17,924,000",Europe
+2017,Niger,13,Niger,144,164,Africa
+2017,Norway,1,Norway,148,"6,252,000",Europe
+2017,Paraguay,10,Paraguay,164,"1,584,000",South America
+2017,Peru,8,Peru,156,"4,032,000",South America
+2017,Philippines,692,Philippines,157,"6,621,000",Asia
+2017,Poland,1,Poland,160,"18,258,000",Europe
+2017,Russia,33,Russia,170,"24,390,000",Europe
+2017,South Africa,29,South Africa,221,"10,285,000",Africa
+2017,Spain,4,Spain,60,"81,786,000",Europe
+2017,Sri Lanka,41,Sri Lanka,116,"2,116,400",Asia
+2017,Sudan,106,Sudan,174,813,Africa
+2017,Sweden,18,Sweden,189,"7,054,000",Europe
+2017,Tanzania,6,Tanzania,206,"1,275,000",Africa
+2017,Thailand,179,Thailand,197,"35,592,000",Asia
+2017,Tunisia,4,Tunisia,203,"7,052,000",Africa
+2017,Turkey,181,Turkey,204,"37,601,000",Asia
+2017,Uganda,13,Uganda,207,"1,402,000",Africa
+2017,Ukraine,61,Ukraine,208,"14,230,000",Europe
+2017,United Kingdom,122,United Kingdom,69,"37,651,000",Europe
+2017,United States,65,United States,210,"76,941,000",North America
+2017,Venezuela,17,Venezuela,213,427,South America
+2017,Vietnam,2,Vietnam,216,"12,922,000",Asia
+2017,Zambia,2,Zambia,222,"1,083,000",Africa
+2017,Zimbabwe,3,Zimbabwe,223,"2,423,000",Africa
